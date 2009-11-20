@@ -5,59 +5,66 @@
   <head>
     <title>{{page.title}} : jimvanfleet.com</title>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-    <link href="/stylesheets/main.css" rel="stylesheet" type="text/css" />
+    <link rel="openid.server" href="http://www.myopenid.com/server">
+    <link rel="openid.delegate" href="http://bigfleet.myopenid.com/">
+    <link rel="icon" href="/favicon.png" type="image/png">
+    
+    
+    <link href="/stylesheets/tomayko.css" rel="stylesheet" type="text/css" />
+    <link type='text/css' href='/stylesheets/small-device.css' rel='stylesheet' media='only screen and (max-width: 480px)'>    
     <link rel="alternate" type="application/rss+xml" title="RSS" href="http://feeds.feedburner.com/bigfleet" />
     
   </head>
   <body>
     
-    <div id="wrap">
-      <div id="header">
-        <div id="right">
+    <div id='container'>
+      <div class='entry' id='content'>
+        <div id='header'>
+          <div class="banner-wrap">
+            <p><a href='/' rel='me author'>Jim Van Fleet</a></p>
 
-          <a href="http://feeds.feedburner.com/bigfleet"><img src="images/feed.png" alt="feed button"/></a><br/>
-          <a href="http://feeds.feedburner.com/bigfleet">Feed</a>
+          <h1 id='title'>{{page.title}}</h1>
+          <p class='date'>{{page.date}}</p>
+          </div>          
         </div>
-        <p class="description">Welcome to...</p>
-        <h2><a href="/">jimvanfleet.com</a></h2>
-      </div>
-      <div id="content">
-    
-        <h1>{{page.title}}</h1>
-        {{ content }}
-      </div>
-        <div id="sidebar">
-
-    	  <h2>My links</h2>
-    	  <ul>
-    		<li><a href="http://www.someguysblog.com/">Blog</a></li>
-    		<li><a href="http://www.linkedin.com/in/jimvanfleet">LinkedIn</a></li>
-    		<li><a href="http://flickr.com/photos/bigfleet/">Flickr</a></li>
-    		<li><a href="http://www.43things.com/person/bigfleet">43things</a></li>
-    		<li><a href="http://www.last.fm/user/bigfleet/">last.fm</a></li>
-    		<li><a href="http://twitter.com/bigfleet">Twitter</a></li>
-    		<li><a href="http://del.icio.us/bigfleet">del.icio.us</a></li>
-    	  </ul>
-
-    	  <h2>Other Links</h2>
-    	  <ul>
-    		<li><a href="http://jimvanfleet.net/">Jim Van Fleet & The Reign</a></li>
-    	  </ul>
-
-          <h2>Contact</h2>
-          <p>
-            aol im: sndbommin<br/>
-            yahoo: xman<br/>
-            e-mail: jim@jimvanfleet.com
-          </p>
-
+        <div id='body'>        
+          {{ content }}
         </div>
 
       </div>
 
-      <div id="footer">
-        &copy; <a href="http://www.jimvanfleet.com/">Jim Van Fleet</a>  | Powered by <a href="http://dairon.net/2006/12/19/mephisto-theme-called-sharp000">Sharp000</a> v1.1 theme.
+      <div id='footer'>
+        <!-- I honestly do not even care. -->
+        <table>
+          <tr>
+            <td class="avatar">
+                <img src="/images/Jim-Avatar_punchout.gif" width="150" height="150" alt="bigfleet's avatar">              
+              </td>
+
+            <td>
+                <ul>
+                  <li id="blog-item"><span><a href="http://www.someguysblog.com/">Blog</a></span></li>
+                  <li id="social-item"><span><a href="http://bigfleet.mp/">Social</a></span></li>
+                  <li id="code-item"><span><a href="http://github.com/bigfleet">Code</a></span></li>
+                </ul>
+                
+                <p class='rights'>
+                  Copyright
+                  <a href="http://creativecommons.org/licenses/by-sa/2.5/" rel="license">&copy;</a>
+                  2003-2009
+                  by
+                  <a href='/about.html' rel='me author'>Jim Van Fleet</a>.
+                </p>
+
+                </td>
+                
+              </tr>
+            </table>
+          
+        </div>
+
       </div>
+
       <script type="text/javascript">
       var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
       document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
