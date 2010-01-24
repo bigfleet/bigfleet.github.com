@@ -1,0 +1,29 @@
+Greg Brown 
+McCabes Guitar Shop 
+Santa Monica,Ca 
+1987-02-14 
+
+Source: FM SBD > ? > CD > EAC > WAV > SHN
+
+Only disc (49:04)
+
+01 Just a Bum
+02 (talking)
+03 Canned Goods
+04 (talking)
+05 Good Morning Coffee
+06 (talking)
+07 Who Woulda Thunk It?
+08 (talking) 
+09 My Home in the Sky
+10 (talking)
+11 Slow Food
+12 The Lamb > (Words: William Blake/Music: Greg Brown)
+13 The Tyger (Words: William Blake/Music: Greg Brown)
+14 Wash My Eyes
+
+Wav files checked with shntool (no fix needed).
+Wav files joined with shntool and retracked with CDWave.
+Encoded to shn with mkwACT.
+
+Conversion by Erin Wolfe <ewolfe1@hotmail.com> 05/02

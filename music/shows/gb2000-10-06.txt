@@ -1,0 +1,33 @@
+
+Greg Brown 
+2000-10-06 
+Teiyko-Loretto Heights Theatre 
+Denver, Co 
+
+SBD > ? > CD > EAC > WAV > SHN
+
+Only disc (74:00)
+01 Small Dark Movie
+02 Your Town Now  
+03 River Will Take You
+04 Mattie Price
+05 Rexroth's Daughter
+06 Like a Dog
+07 Just By Myself
+08 A Little You
+09 Marriage Chant
+10 Lullabye
+11 Living in a Prayer
+12 InaBell Sale
+13 Never So Far
+14 Encore: In a Town This Size (Kieran Kane)
+15 Encore: If I had Known
+
+Entire show with Bo Ramsey
+
+Notes: t01 - dropout from 0:54 - 1:00
+
+wav files checked with shntool (no fix needed).
+Encoded to shn with mkwACT.
+
+Conversion by Erin Wolfe <ewolfe1@hotmail.com> 04/02

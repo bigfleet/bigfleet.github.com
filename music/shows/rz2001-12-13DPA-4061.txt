@@ -1,0 +1,27 @@
+Remy Zero
+12.13.01  The Intersection; Grand Rapids, MI
+
+Taper:               Jason Roth
+Source:             DPA-4061 > Att(-20khz) > M1 @ 48khz (mic in)
+Location:           5ft FoB
+Conversion:       Tascam DA-20mkii > Monster Coax > Philips CDR 870
+Resampling:      None
+Editor:              Jason Roth
+Editing:             None
+SHN:                CDR-M > EAC > MKW Audio Compression Tool
+
+******************************************************************************************************************
+	                    THIS SHOW IS NOT TO BE MP3-ENCODED	
+*****************************************************************************************************************
+
+Disc 1- 30:44
+01. Intro
+02. Hermes Bird
+03. Bitter
+04. ???
+05. Prophecy
+06. Perfect Memory
+07. Save Me
+08. Life In Rain (tease)
+
+Notes: opening set for the Djali Zwan early set that night.

@@ -1,0 +1,71 @@
+The Polyphonic Spree
+December 20, 2002
+Lakewood Theater
+Dallas, Tx
+
+Taper:		Mark Phillips <vphill@hotmail.com>
+
+Source:		AT822 (bass rolloff on) > Sound Devices Mp-2 > 
+		Sony D8 @ 44.1Khz 
+
+Location:	DFC right in front of the Balcony on the floor
+		
+
+Conversion:	Tascam DA-302 > Frontier Design Group Wavecenter/PCI > Cdwav > 
+		Soundforge 5.0 (normalizing) > Cdwav (Tracking) > MKW (SHN)
+
+
+	********************************************
+	*	     Do Not encode to MP3          *
+	********************************************
+
+DISC ONE
+Track	Title				Time		
+---	
+01.	Intro*				01:39
+02.	Little Drummer Boy*		04:03
+03.	Silent Night*			01:35
+04.	Do you hear what I hear*	05:24
+05.	Christmas Time Is Here*		04:23
+06.	Intro				04:52		
+07.	Have a Day			05:28
+08.	Sun				08:03
+09.	Days Like This			05:09
+10.	Lalala				01:53
+11.	Middle				03:33
+12.	Hangin Around			04:57
+13.	Soldier Girl			03:20
+
+Total:					54:19
+
+Disc Two
+Track	Title				Time		
+---	
+1. 	Light and Day			03:21
+2. 	Ride Captain Ride		04:23
+3. 	2000 Places			06:39
+4.	Diamonds			05:56
+5. 	Best Part			08:56		
+6.	King				09:09
+7.	Reprise				04:41
+8.	Christmas			07:25  
+9	Harp Outro			01:34
+
+Total:					52:04
+
+
+
+ 
+	********************************************
+	*	     Do Not encode to MP3          *
+	********************************************
+
+*	Christmas set for the children.  The regular show followed.
+
+
+
+Notes:
+---------
+
+Completed 12-21-02
+

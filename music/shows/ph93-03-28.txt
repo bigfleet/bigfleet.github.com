@@ -1,0 +1,67 @@
+PHISH
+03-28-93 
+East Gym, Humboldt State University - Arcata, CA 
+
+Source: SBD > DAT
+Transfer: Fostex D5 > Tascam CDRW 700 > CDR(x1) > EAC > SHN
+
+DAT>CD Transfer by Mark Lynn
+SHN Conversion by Ben Mohr (bmohr@udel.edu)
+
+------------------------------------
+ Disc 1:                    (71:16)
+------------------------------------
+-Soundcheck-
+1. Jam                      (08:32)
+2. Dog Log Jam              (16:07)
+-Set 1-
+3. The Landlady             (04:55)
+4. Funky Bitch              (04:47)
+5. Sparkle                  (03:50)
+6. Split Open and Melt      (09:33)
+7. Lizards                  (10:17)
+8. The Sloth                (03:44)
+9. Maze                     (09:31)
+
+------------------------------------
+ Disc 2:                    (58:31)
+------------------------------------
+1. Fee >                    (05:09)
+2. It's Ice                 (08:46)
+3. Lawn Boy                 (02:43)
+4. Run Like an Antelope*    (12:18)
+-Set 2-
+5. Walk Away                (04:25)
+6. Runaway Jim              (08:49)
+7. Mound                    (05:42)
+8. Bathtub Gin              (07:21)
+9. Big Ball Jam             (03:04)
+
+------------------------------------
+ Disc 3:                    (64:28)
+------------------------------------
+1. You Enjoy Myself ->      (01:53)
+2. The Pez Song ->          (02:34)
+3. You Enjoy Myself         (21:38)
+4. Paul and Silas           (02:43)
+5. HYHU > Love You > HYHU** (09:52)
+6. Possum^                  (11:42)
+-Encore-
+7. Contact^^                (06:46)
+8. BBFCFM*                  (05:49)
+9. Post-show house music    (01:31)
+
+*  With Leave It to Beaver teases
+** Fishman referred to as "Tubs"
+^  With McGrupp tease
+^^ Trey stops to dedicate the "tires on the road" part of the song to Shelly 
+   Culbertson for trekking from California to Boston to work for them full-time. 
+
+
+Notes:
+-Dropout in d3t04 1:36 (some music missing)...on dat copy
+
+Fixes:
+-Removed spikes d1t08 7:27.743, 7:27.756 with SF4.5 pencil tool
+-Removed spike d2t05 0:35.831 with SF4.5 pencil tool
+-Removed six spikes d3t08 1:07 with SF4.5 pencil tool

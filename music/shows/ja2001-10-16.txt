@@ -1,0 +1,50 @@
+Jane's Addiction
+Continental Arena
+East Rutherford, NJ
+Tuesday October 16, 2001
+
+Taper:		George Wang <gewwang@yahoo.com>
+Source:		Neumann ak40s > Neumann lc-3 active cables > Neumann km100s > 
+		Audio Magic X-Stream XLRs > Sonosax sx-m2 > Sony D100
+Location:	approximately 30 ft. from center stage
+
+DAT > SHN:	Archive Python DDS/DAT2WAV > .wav > CD-WAV/mkwACT > .shn
+		(Direct DAT extraction, no soundcard)
+
+Disc One:
+
+01:	Intro				-	00:59.000
+02:	Kettle Whistle			-	08:16.000
+03:	Ocean Size			-	04:19.000
+04:	Ain't No Right			-	03:37.000
+05:	Three Days			-	10:30.000
+06:	Stop				-	05:49.000
+07:	Summertime Rolls		-	07:33.000
+
+Total:					-	41:03.000
+
+Disc Two:
+
+01:	Second Stage Intro *		-	00:34.000
+02:	Jane Says *			-	06:29.200
+03:	Classic Girl *			-	06:18.400
+04:	Hungry *$			-	02:50.000
+05:	Happy Birthday Jubilee *	-	08:03.400
+06:	Obvious (instrumental)		-	02:57.000
+07:	Mountain Song			-	04:34.600
+08:	Ted, Just Admit It		-	11:12.000
+09:	Encore Break			-	05:46.000
+10:	Chip Away			-	03:38.400
+
+Total:					-	52:23.000
+
+*	Second Stage
+$	w/Dave Navarro on lead vocal
+
+Notes:	When the band moved to the second stage located at the back of the floor,
+	I had to turn the mics around to face backwards to continue taping the main
+	stage PA. Due to the break, I added a fade out on Disc 1 Track 6. At the end
+	of Disc 2 Track 5, there is some audible shifting when I turned back around
+	to face the main stage.
+
+compiled by George Wang on 11-12-2001

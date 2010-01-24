@@ -1,0 +1,35 @@
+Interpol
+Soma
+San Diego, CA 
+October 03, 2003
+
+Taper: mike v.
+
+Source: Schoeps MK4> Rmod2k2> M1 @48Khz
+
+Conversion: Python DAT Drive>Dat2wav>wav
+Downsample in Soundforge 6.0
+SHN: Wav>Mkw>SHN
+
+**Do Not Convert to MP3**
+
+*********Setlist*************
+
+Disc 1 (62:37)
+
+1.Intro (instrumental)
+2.Untitled
+3.Say hello to the angels
+4.Stella was a diver and she was always down
+5.Strangers in the night
+6.Hands away
+7.nyc
+8.PDA
+9.NARC
+10.Leif Erickson
+11.Roland
+12.The specialist
+13.Obstacle 1
+
+Notes: Some new songs played, titles may be incorrect. Feel free to update. 
+

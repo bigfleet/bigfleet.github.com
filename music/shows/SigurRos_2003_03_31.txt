@@ -1,0 +1,39 @@
+Sigur Ros
+
+31 March 2003
+Verizon Wireless Theatre, Houston, Tx
+
+
+Source:
+Recorded by bootlegg420
+e-mail:************ rgc514@sbcglobal.net
+msn messenger:***** rgc514@sbcglobal.net
+
+Equipment:
+
+> Microphone Madness(MM- MCSM-8),Frequency Response:(40-20,000HZ)
+  (attached to Lapel)>
+> Battery Box Module w/Roll off Filter set to 69mhz>
+> Sony TCD D100, TDK DA-RXG 90 tapes>
+> S/PDIF OPTICAL IN
+> Sitting Left Side of Soundboard>
+---------------------------------------------------------------------
+> Transfered via headphone jack to Line-In w/ 1/8" cable>
+> Recorded w/Soundforge v5.0 (44.1kHz 16bit PCM WAV)>
+> Cut w/CDWav>
+> encoded to SHN w/ mkw ACT v0.97 BETA 1>
+
+setlist:
+01. Intro
+02. vaka
+03. milano
+04. ny batteri
+05. gong
+06. olsen
+07. salka
+08. vidrar
+09. hafsol
+10. smaskifa
+11. staralfur
+12. popplagid
+

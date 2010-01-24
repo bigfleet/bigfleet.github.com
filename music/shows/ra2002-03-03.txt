@@ -1,0 +1,41 @@
+Ryan Adams
+March 3, 2002
+The Warfield
+San Francisco, CA
+
+Disc One
+1. Intro (Star Wars)
+2. The Rescue Blues
+3. Firecracker
+4. Wharf Rat -> Answering Bell -> Ooh Las Vegas
+5. To Be Young
+6. Touch, Feel and Lose
+7. Harder Now That It's Over
+8. New Song 
+9. Tennessee Sucks
+10. Somehow, Someday
+12. Wonderwall*
+13. Desire
+14. Shakedown on 9th Street
+
+Disc Two
+1. Into
+2. La Cienega Smiled Back
+3. New York, New York
+4. Nobody Girl
+5. My Winding Wheel
+6. Don't Ask For the Water
+7. The Fools We Are As Men
+8. Talk
+9. AMY
+10. Lovesick Blues
+11. New Song
+12. Come Pick Me Up
+13. Tina Toledo's Streetwalkin' Blues
+*Oasis Cover
+
+Taper: Scott Uyeda (shuyeda@aol.com)
+Source: SP BMC-4 > SP SB-2 > Sharp MD-MT90
+
+Conversion: MDS JE520 -> Fostex CR200 -> EAC -> CDWave -> Mkw -> SHN
+

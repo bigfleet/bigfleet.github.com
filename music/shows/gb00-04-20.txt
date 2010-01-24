@@ -1,0 +1,59 @@
+Greg Brown
+Wachusett Folk Cafe
+Gardner, MA
+04-20-00
+
+Disc 1 (61:23)
+
+01 River Will Take You		4:01
+02 Maddie Price			4:13
+03 On a Summer Eve		4:10
+04 Your Town Now		3:45
+05 Dear Wrinkled Face		2:51
+06 Marriage Chant		4:03
+07 A Little You			3:48
+08 Just By Myself	       10:03
+09 'Cept You and Me, Babe	4:47
+10 Samson and Delilah		3:27
+11 Livin' in a Prayer		4:12
+12 *talking*			2:30
+13 Mississippi Moon		5:15
+14 Say a Little Prayer		4:18
+
+Disc 2 (64:18)
+
+01 Out in the Country		 9:20
+02 Ready for the Fair?		 4:31
+03 Waitin' on You		 4:44
+04 857-5413			 3:32
+05 1962 Vincent Black Lightning	 6:00
+06 Brand New '64 Dodge		 4:51
+07 You Can Always Come to Me	 4:01
+08 Hey Baby Hey			 5:38
+09 Why Do You Even Say That	 3:41
+10 Betty Ann			 4:47
+11 Slow Food			 5:34
+12 The Way My Baby Calls My Name 2:58
+Encore:
+13 My New Book			 4:41
+
+SBD>DAT(?mic's ?transfer)>cd(x2)>EAC>wav>shntool>wav>shn
+
+Encoded to shn with mkwACT by ewolfe1@hotmail.com
+
+MD5 Info:
+
+70ef1620bc196c3989d90eba7e738abc *gb00-04-20d1t01.shn
+ed7ece6599df1c2990db7ab8ea53fc44 *gb00-04-20d1t02.shn
+29ec58a87948a8301ff8a48f6b699892 *gb00-04-20d1t03.shn
+b7e7fe6a01b17b874ad864f25705eb64 *gb00-04-20d1t04.shn
+bcd069cd5f1ce06a59455fe2e9add322 *gb00-04-20d1t05.shn
+3b5a5ccb1812a6dbb9e77872a947d571 *gb00-04-20d1t06.shn
+71e6b6898754045bc0eace9833f97b9a *gb00-04-20d1t07.shn
+efb834b8c79b0c263024008fce68d50f *gb00-04-20d1t08.shn
+c3a76a7a4d0e937a6e2030ecfdf106f0 *gb00-04-20d1t09.shn
+f34720aeead264571c752e1ea22eb8be *gb00-04-20d1t10.shn
+20a68c0db295d45a985aed921cdb1b18 *gb00-04-20d1t11.shn
+0e372a359972de8e2e179420b826e255 *gb00-04-20d1t12.shn
+c8cb45d041c7e68210f035e82ea5a277 *gb00-04-20d1t13.shn
+8a2b9d8497321e5897e3df24e1c8f5b8 *gb00-04-20d1t14.shn

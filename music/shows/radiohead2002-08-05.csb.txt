@@ -1,0 +1,47 @@
+Radiohead
+August 5, 2002
+Palacio De Congresos
+Salamanca, SP
+
+Source:	Core-Sound Binaural Mics fixed to a pair of fake glasses >
+	Batter Box w/ Bass Roll-Off filter > Sony TCD D-100 44.1kHz
+
+Conversion: SPDIF digital line-In on a Terratec SixPack 5.1+ >
+	recorded with w/ Cool Edit pro v1.2 (44.1kHz 16bit PCM WAV)
+	Equalized and Normalized w/ Soundforge v5.0 > 
+	Cut w/ Cool Edit pro v1.2 > encoded to SHN w/ mkw ACT v0.97 BETA 1
+
+Recorded and mastered by Chester <chester@uselessadvert.com>
+
+
+Disc One
+--------
+01  Intro
+02  There There
+03  Scatterbrain
+04  Wolf At The Door
+05  Up On The Ladder
+06  Where I End And You Begin
+07  Sail To The Moon
+08  Sit Down Stand Up
+09  Morning Bell
+10  Paranoid Android
+11  You And Whose Army
+12  No Surprises
+13  I Might Be Wrong
+
+Disc Two
+--------
+01  The Bends
+02  Talk Show Host
+03  Pyramid Song
+04  National Anthem + Hunting Bears
+05  Idioteque
+06  Everything In It's Right Place
+07  waiting for the encore
+08  Airbag
+09  Knives Out
+10  Myxamatosis
+11  How To Disappear Completely
+12  We Suck Young Blood
+13  Street Spirit

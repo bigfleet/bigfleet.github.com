@@ -1,0 +1,35 @@
+Calexico
+1.12.2002
+Great American Music Hall
+San Francisco, CA
+"El Clarinete Encantado Cuento"
+
+Source: unknown
+
+Setlist:
+
+Set 1:
+Wash
+The Ride, Part II
+Sonic Wind
+Frontera / Trigger
+Gypsy's Curse
+Sweet As I Remember
+For A Little While
+El Picador
+Ballad of Cable Hogue
+Fade
+
+Set 2:
+Wind-Up Bird
+Tulsa Telephone Book
+Lost In Space
+Minas De Cobre
+Return of the Manta Ray
+The Who Do You Love
+Corona
+Cancion Del Mariachi
+Crystal Frontier
+
+Ripped using EAC and converted to SHN with mkwACT .97 Beta 1 by
+Jim Van Fleet (http://db.etree.org/bigfleet)

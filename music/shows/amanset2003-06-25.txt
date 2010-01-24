@@ -1,0 +1,33 @@
+American Analog Set
+June 25, 2003
+Horseshoe Tavern - Toronto, ON
+
+Taper:  Lauren Yakiwchuk
+Source:  ECM-717>D8 @ 48kHz
+Location:  ~2 feet from right stack
+Conversion:  TCD-D8>7pin to Coax>Midiman Audiophile 2496>Cool Edit Pro 2.0
+Resampling:  Software downsample via Cool Edit, pre/post filter High Quality 999, 44.1k 16 bit stereo
+Editor:  Lauren Yakiwchuk
+Editing:  Track splits with CD Wave.  Fades in/out at beginning and end of show.
+SHN:  Master WAVs> MKW Audio Compression Tool
+Flaws:  Some sort of digital noise at the beginning of track 1.
+
+******************************************************************************************************************
+	                    THIS SHOW IS NOT TO BE MP3-ENCODED	
+******************************************************************************************************************
+
+01.  Continuous Hit Music [2:27]
+02.  Punk as Fuck [4:24]
+03.  The Hatist [3:57]
+04.  The Wait [2:55]
+05.  It's All About Us [7:23]
+06.  Choir Vandals [3:52]
+07.  Hard to Find [5:28]
+08.  The Only One [2:39]
+09.  Come Home Baby Julie, Come Home [6:42]
+10.  The Postman [4:03]
+11.  We're Computerizing and We Just Don't Need You Anymore [8:42]
+
+Encore:
+12.  crowd noise/any requests?  [1:07]
+13.  Million Young [3:54]

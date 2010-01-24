@@ -1,0 +1,43 @@
+Band:Beck
+Venue:Moore Theater
+Location:Seattle, WA
+Date:August 2, 2002
+
+Source: Audio Technica 853's > SP Battery Box (16hz-no rolloff) >
+	Sony M1 DAT (44.1khz)  {Mics in hat- FOB 15 feet from right 		stack}
+
+Recorded By Basshead   basshead02@yahoo.com
+
+Transfer: Sony M1-> Delta Dio 24/96 via Core Sound 7Pin Coax Cable-> 	
+Soundforge 5.0 Pro (No Resampling)-> CDWave for track splits->
+	mkwACT for shnning
+
+Transferred By: Colin Robinson ccrobinson@hotmail.com
+
+Disc One:
+Intro
+Pay No Mind
+Lonesome Whistle (Hank Williams)
+Kangaroo (Big Star cover)
+The Golden Age
+It's All In Your Mind
+Dead Melodies
+Guess I'm Doin' Fine
+Sing It Again
+Tropicalia
+End of the Day
+
+Disc Two:
+BackStreets Of Seattle
+Lost Cause
+Burro
+Lonesome Tears
+Nobody's Fault (but the guy who got on stage and ran past Beck)
+Nobody's Fault (Beck finishes)
+Round The Bend
+Cold Brains
+Tropicalia Lounge Act
+We Live Again
+Sunday Sun (and encore break)
+Side of the Road
+Sleepless Nights (Everly Brothers cover)

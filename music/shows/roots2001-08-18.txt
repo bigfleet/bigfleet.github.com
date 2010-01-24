@@ -1,0 +1,31 @@
+The Roots
+The Summit Festival
+August 18, 2001
+Mariaville, NY
+
+Schoeps cmc6/mk41 > Lunatec V2 > SBM1 > DAP1 > Sony PCM-M1 at 44.1 hz
+Microphones, etc Scott Gordon.  Patched by Pete Popivchak
+Microphones placed at front left corner of soundboard (if looking at stage
+from the soundboard)
+
+Sony M1 > Hosa digital coax > Delta Audiophile 24/96 Soundcard > SoundForge
+5.0--record, fade, normalize > CDWav --tracking > MKW --conversion to SHN
+Patched, tracked, edited by Pete Popivchak.
+
+
+SETLIST UNKNOWN
+
+
+
+
+
+
+
+Please help with setlists when possible. Please email updates and corrections
+to me at siteop@kbsounds.com
+
+Thanks Everyone and Enjoy!
+
+Ken Lebofsky
+kbsounds.com
+

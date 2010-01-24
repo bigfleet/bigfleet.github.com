@@ -1,0 +1,30 @@
+
+The Slip
+6-15-03 
+BONNAROO!!!!  
+Manchester, TN 
+
+
+Source: FOB/DFC Neumann SKM140 actives (ORTF, w/ small windscreens)>
+	Lunatec V3(SPDIF out @ 24/48)>
+	USBPre(SPDIF in)>
+	Sony C1VN
+
+	Taped and by Ben Cho and Big Mac
+
+
+
+Transfer:
+	WAV> SF6.0 (tracking, (resampling and dither for 16 bit/ 44.1 KHz))>
+	SHNTool (for 16/44.1)> FLAC (24 bit)/MKWAct(16/44.1)
+	
+
+		
+Notes:		
+	Resampled at highest quality setting with anti-alias
+	filter, bit depth conversion with triangular high pass
+	dither and high-pass contour noise shaping, all in
+	Sound Forge 6.0 
+	
+	Sector boundaries fixed with SHNTool. 
+

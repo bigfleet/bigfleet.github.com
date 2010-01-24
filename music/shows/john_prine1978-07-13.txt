@@ -1,0 +1,60 @@
+John Prine  
+My Father's Place  
+Roslyn, NY  
+7-13-78
+
+pre-fm sdb>>cassette master>>cdr
+
+Conversion: CD > EAC(secure) > WAV > SHN
+*wav files checked with shntool (no fix needed) and encoded with mkwACT.
+
+Disc 1
+01 Spanish Pipedream
+02 Often is a Word I Seldom Use
+03 Fish and Whistle
+04 Crooked Piece of Time
+05 Blue Umbrella
+06 Illegal Smile :)
+07 Sabu Visits the Twin Cities Alone
+08 The Bottomless Lakes
+09 Sam Stone
+10 That's the Way that the World Goes 'Round
+11 Quiet Man
+12 There She Goes
+
+Disc 2
+01 Try To Find Another Man
+02 If You Don't Want My Love
+03 Pretty Good
+04 Bruised Orange
+05 Hello In There
+06 Grandpa Was A Carpenter
+07 Paradise
+08 Please Don't Bury Me
+09 Sleepy Eyed Boy
+10 Treat Me Nice (?)
+11 Sweet Revenge
+12 Lawdy Miss Clawdly
+13 Saddle in the Rain
+
+any song help send to   usalai@nycap.rr.com
+thanks to peter hedeman for the feed.
+
+notes:
+
+Pre-FM feed from WLIR-FM recording truck
+All stage mics wired to air mix soundboard in recording truck to 
+Maxell XLII cassette (no dolby) on a (then brand spankin' new) 
+Nakamichi 550 cassette machine.
+
+To computer (23 years later)
+via:
+cr7a Nakamichi cassette (with azmuth adjust) to SBM1 Sony Super 
+Bit Mapper A>D converter to digi in on Linx-one studio card (spdif). 
+Recorded in Soundforge and mastered with  CD architect to CD to SHN.
+
+Note...My cassettes have held up over the years better than the 
+master reels of these shows.
+The master 1/4" reels (recorded on Ampex 456 grand master tape) 
+would need to be literally "baked" in order to squeeze out one 
+final play as the oxide flakes off the tape!

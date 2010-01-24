@@ -1,0 +1,25 @@
+Greg Brown 
+Des Moines Marriott
+Des Moines, IA 
+10/04/1996
+
+SBD > ? > CD > EAC > WAV > SHN
+
+Only disc (50:31)
+01 One Wrong Turn
+02 Ballingal Hotel
+03 Boomtown
+04 You Can Watch Me
+05 Whatever It Was
+06 A Little Place in the Country
+07 Hacklebarney Tune
+08 Brand New '64 Dodge
+09 Billy from the Hills
+10 No Place Away
+
+Entire show with Bo Ramsey, Steve Hays & Marty Christianson
+
+wav files checked with shntool (no fix needed).
+Encoded to shn with mkwACT.
+
+Conversion by Erin Wolfe <ewolfe1@hotmail.com> 04/02

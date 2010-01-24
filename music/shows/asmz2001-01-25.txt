@@ -1,0 +1,15 @@
+A Silver Mt. Zion
+January 25, 2001  
+Effenar
+Eindhoven, NL
+
+Source:  SBD>[?]>CDR
+Transfer:  CDR>EAC>SHN
+
+Comments:
+Ripped using EAC .9 beta 4 (see EAC log for details)
+SHN conversion using mkwACT .97 beta 1
+ripped and converted on 18-FEB-2003.
+
+ripped and converted by jprimozic on 18-FEB-2003.
+http://db.etree.org/jp728

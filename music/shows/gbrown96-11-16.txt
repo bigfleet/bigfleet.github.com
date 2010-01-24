@@ -1,0 +1,68 @@
+Greg Brown
+Neighborhood Church, Pasadena, CA
+11/16/96
+
+Lineage: DAT(?mic's ?transfer)>cd(x?)>EAC>wav>shn
+
+
+DISK 1
+Set1 
+01 Intro 
+02 If I Had Known 
+03 Further In 
+04 One Wrong Turn 
+05 Just By Myself 
+06 Slow Food 
+07 Think About You 
+Set2 
+08 President Kennedy 
+09 If You Don't Get It at Home 
+10 Where is Maria? 
+11 Poor Backslider 
+12 A Little Place in the Country
+
+DISK 2 
+01 Spring Wind 
+02 You Drive Me Crazy 
+03 Two Little Feet 
+04 Boomtown 
+05 One Cool Remove 
+06 China 
+07 Who Woulda Thunk It? 
+08 Small Dark Movie 
+09 She Moved through the Fair 
+10 Ring Around the Moon 
+11 Goodnight Irene
+
+
+
+Comments: Set One with Nina Gerber 
+          Set Two with Nina Gerber and Bill Griffin
+
+
+MD5 Info:
+
+fdaee8a6994f0515f91a7397369f06ed *gbrown96-11-16d01t03.shn
+17acd655f4460160a0cb00b2eaba7c3a *gbrown96-11-16d01t04.shn
+3c27427bcf929b73e564dc620c8dacf4 *gbrown96-11-16d01t05.shn
+9ac38712952e639f99b17341f9f1ad9d *gbrown96-11-16d01t06.shn
+9995028b09ce4cd13e5a6419e754ad3a *gbrown96-11-16d01t07.shn
+908ac82c5fee6c70634c91c98169ee1c *gbrown96-11-16d01t08.shn
+948e573b2dd849fa0a349771d1fbe86a *gbrown96-11-16d01t09.shn
+9a7cfc25ef98410dff10e4111003cf5e *gbrown96-11-16d01t10.shn
+738f07fc9caa946238986842880a83b6 *gbrown96-11-16d01t11.shn
+d76db93bbf27c2d7a3d3aea0609a346f *gbrown96-11-16d01t12.shn
+8e66cf6634a777d99c564cee0e27c5a6 *gbrown96-11-16d01t01.shn
+8cff9490180aef0a00f6e19c4c1c9ed9 *gbrown96-11-16d01t02.shn
+
+16e1746d7390ce1bdea2307fb9349704 *gbrown96-11-16d02t07.shn
+5799cf8c6c1b7ebbd76aa9cd5f394c18 *gbrown96-11-16d02t08.shn
+0e8a08906b6b950363ef74e011064241 *gbrown96-11-16d02t09.shn
+a81c116f82deab017f3c849f20152cf6 *gbrown96-11-16d02t10.shn
+42ff44b21692596784ad5d8affb6c927 *gbrown96-11-16d02t11.shn
+f5682855362f73e82882ae36bbe44968 *gbrown96-11-16d02t01.shn
+dfc41aceaaa424618e1960a6f136d6f1 *gbrown96-11-16d02t02.shn
+bbacc59b0e2b1da46bbf9cf031052ea7 *gbrown96-11-16d02t03.shn
+ed431b3feff8d5863a42d4ac574355c4 *gbrown96-11-16d02t04.shn
+98379da7750914a11f837c6fd9f9868a *gbrown96-11-16d02t05.shn
+29d86490e846d19f560ab84e51c49348 *gbrown96-11-16d02t06.shn

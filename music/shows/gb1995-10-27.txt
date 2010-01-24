@@ -1,0 +1,39 @@
+Greg Brown
+Old Church
+Cambridge, MA
+1995-10-27
+
+One disc (63:37)
+
+01 You Drive Me Crazy                        6:03
+02 Nice When it Rains                        2:26
+03 Dream Cafe				     6:05
+04 Late Night Radio			     4:55
+05 Ballingal Hotel                           9:34
+06 Walking in Madison                        5:08
+07 Lord, I have Made You a Place in my Heart 4:00
+08 Boomtown                                  5:01
+09 Fishing with Bill			    10:24
+10 If I had Known			     6:21
+11 You Might as Well Go to Sleep             3:35
+
+Lineage: DAT(?mic's ?transfer)>cd(x?)>EAC>wav>shntool>wav>shn
+
+Retracked with CDWave and encoded to shn with mkwACT.
+2 seconds of unknown noise at beginning of Track 1 edited out with Sound Forge XP 4.5b.
+
+Any comments, please contact Erin at <ewolfe1@hotmail.com>
+
+MD5 Info:
+
+5e12d3d9471d2dbdc30a6514f4da5652 *gb95-10-27t03.shn
+285c527c96e70991ad57d7831489334e *gb95-10-27t02.shn
+b1fa73680cc42ed33cbed2681c4c8688 *gb95-10-27t01.shn
+c0d2cd0be5623a553c2d0430b3b99e46 *gb95-10-27t04.shn
+2bd27f9fe14abe7257d979302a540d23 *gb95-10-27t05.shn
+78c63d59a83093d3dc36052de9c60aa9 *gb95-10-27t06.shn
+ea2d92c15d235bc5d3ce4273f96cefdc *gb95-10-27t07.shn
+6acf7e26e2233014ad02f51922cbbe26 *gb95-10-27t08.shn
+2c2617486d29f7d320ace7de2f02d8ca *gb95-10-27t09.shn
+20e6f741a7f0079957755d35a8b7054d *gb95-10-27t10.shn
+dfaac2ac06b3040a0984c49ba349d196 *gb95-10-27t11.shn

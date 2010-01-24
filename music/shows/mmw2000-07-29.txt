@@ -1,0 +1,23 @@
+Medeski Martin and Wood
+Glen Halen Blockbuster Pavilion, Devore, CA
+July 29, 2000
+
+Taper:		Mike Vernal <vernal@fas.harvard.edu>
+Source:		neumann ak40s > neumann lc-3 active cables > neumann km100s > 
+		Lunatec V2 > Audio Magic Excalibur-II XLRs > Apogee AD-1000
+Location:	15th row, stage right stack
+
+DAT > SHN:	PCM-R500 > Audiomedia III/Powermac G3/233 > Pro Tools 4.3.2 >
+		Plextor 12x/4x/32x (burn/extract)
+			
+Disc One:
+
+1. Intro
+2. Big Time
+3. Sugarcraft
+4. The Lover ->
+5. We Are Rolling
+6. We Are Rolling -> ITAHTLMJ
+7. Hey Joe
+8. Chubb Subb
+

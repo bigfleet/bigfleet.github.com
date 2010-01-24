@@ -1,0 +1,66 @@
+Greg Brown
+New Falls Cinema
+Bellows Falls, VT
+2000-04-21
+
+Disc One: (47:08)
+01 *Intro*  			     0:52
+02 River Will Take You		     4:00
+03 Your Town Now                     4:20
+04 Mattie Price                      3:57
+05 Dear Wrinkled Face                3:00
+06 A Little You                      4:00
+07 Nice When it Rains                3:18
+08 Why Did You Even Say That         3:40
+09 Ready for the Fair                4:55
+10 857-5413                          3:35
+11 1952 Vincent Black Lightning      5:39
+12 Marriage Chant                    5:48
+
+Disc Two: (52:10)
+01 Just by Myself                    9:11
+02 Like a Dog                        3:21
+03 Loneliness House                  5:59
+04 'Cept You and Me, Babe            7:38
+05 Spring Wind                       5:05
+06 Betty Ann                         5:49
+07 If I had Known                    4:37
+08 Carrickfergus                     5:38
+  (Encore)
+09 Long Gone                         4:46
+
+Lineage: DAT(?mic's ?transfer)>cd(x?)>EAC>wav>shntool>wav>shn
+
+Retracked with CDWave. Encoded to shn with mkwACT.
+
+There were small gaps between most of the tracks. I edited these out as best as I could with CDWave and Sound Forge XP 4.5b. Hopefully I did a good job.
+
+Known flaws: 
+1952 Vincent Black Lightning - splice at 01:56; only 2 or 3 seconds missing.
+
+Any comments, please contact Erin at <ewolfe1@hotmail.com>
+
+MD5 Info:
+
+c0288c8c72be8bff769522f73e6eed2c *gb00-04-21d1t01.shn
+92b4178998a3dcb9e1702be1e9c60685 *gb00-04-21d1t02.shn
+317ea7922bfdc48442a48cb6abe0b073 *gb00-04-21d1t03.shn
+91728b2670d0b672407d03c727e173e3 *gb00-04-21d1t04.shn
+f9f390b5f0d3eea05f7fd83dd6754b4b *gb00-04-21d1t05.shn
+ec560bde13376983bb40a76dc1ce5a21 *gb00-04-21d1t06.shn
+449daeb69df1f6177e32bfbee0705369 *gb00-04-21d1t07.shn
+d7f777e52becc1842dac0e4babae0543 *gb00-04-21d1t08.shn
+f9afd06a5714784040d5c61b4033797d *gb00-04-21d1t09.shn
+1fb9c5c5b59b9209dceb11f91d994870 *gb00-04-21d1t10.shn
+c71e4bfb488cfbf7f68abc431a8645a9 *gb00-04-21d1t11.shn
+61118cdbec28effb95aca9813f53975d *gb00-04-21d1t12.shn
+
+04458d8499d89782105f70aa137a7e5d *gb00-04-21d2t01.shn
+7e0440b1fed4d4eaca68e479470cb4e0 *gb00-04-21d2t02.shn
+45fd11b308a3cb454611c6b23003a2a5 *gb00-04-21d2t03.shn
+bbc0d35bb21e05604d4e140311c67c5f *gb00-04-21d2t04.shn
+f6bf989d01a127e4729091dc9089e7c1 *gb00-04-21d2t05.shn
+83a3d16bbd8486665e0f1f65eea6bf76 *gb00-04-21d2t06.shn
+ef7b2f68cf9452a4bd55b8756ec060fd *gb00-04-21d2t07.shn
+e6e5c4679073e40c5bb2d78ecd4f4ddf *gb00-04-21d2t08.shn
+e0dd7f4f7ee802f0122505b37df87a86 *gb00-04-21d2t09.shn

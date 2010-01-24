@@ -1,0 +1,60 @@
+Greg Brown
+Franklin Jr. High School
+Franklin, MA
+04-22-00
+
+Disc 1 (48:17)
+
+01 *intro*			0:48
+02 River Will Take You		3:31
+03 Laughing River		5:33
+04 Maddie Price			4:43
+05 *talking*			1:16
+06 Like a Dog			2:56
+07 Just By Myself	       11:22
+08 Two Little Feet		6:22
+09 Samson and Delilah		4:11
+10 *talking*			2:40
+11 Livin' in a Prayer		4:55
+
+Disc 2 (42:14)
+
+01 857-5413			4:01
+02 1952 Vincent Black Lightning 6:18
+03 Brand New '64 Dodge		5:11
+04 Ready For the Fair?		4:19
+05 A Little You			4:28
+06 Marriage Chant		5:45
+07 Wash My Eyes			3:35
+08 Betty Ann			5:01
+09 Your Town Now		3:36
+
+Lineage: DAT(?mic's ?transfer)>cd(x2)>EAC>wav>shntool>wav>shn
+
+Note: The volume on d2t03 was extremely low, so I normalized it to the level of the other tracks with Sound Forge XP 4.5b.
+
+Conversion to shn with mkwACT by ewolfe1@hotmail.com
+
+MD5 Info:
+
+6e8b4748bc7a750d779bd46301051ec7 *gb00-04-22d1t09.shn
+83968175a76e8c413d7d6dc6040ae268 *gb00-04-22d1t02.shn
+6e5a72d44339ea689ac02c26b075ddfd *gb00-04-22d1t03.shn
+31519ab20ffa26f92858ea0f550a63aa *gb00-04-22d1t04.shn
+55f268faf75964b864b420947bacc55b *gb00-04-22d1t05.shn
+0c0726573d00f03accf1bb00d3db9663 *gb00-04-22d1t06.shn
+ea1d0003717ccf025d3098c44b54c49f *gb00-04-22d1t07.shn
+26fbd213aa906283582809891f5cc137 *gb00-04-22d1t08.shn
+811e78b54c42c55a0ef94391ca3ed8ba *gb00-04-22d1t01.shn
+8a370d1bd2bafe8b3c80ccf7397c2154 *gb00-04-22d1t10.shn
+396d2036c8382af94e4dc6b0f36c82f7 *gb00-04-22d1t11.shn
+
+16112edaa6d4e9849b4f84f1da911fcf *gb00-04-22d2t08.shn
+a4ab6afd9779cf621e13d63cd5a7c5ee *gb00-04-22d2t02.shn
+cc90ccc15b96dc9b26f885611564f802 *gb00-04-22d2t03.shn
+d1cfb72098b80eebe3f2950c08e4716b *gb00-04-22d2t04.shn
+01eec368dfcb883b6ad8caac02c882c6 *gb00-04-22d2t05.shn
+92f6a0b303b82f4bcbda47eea6f233b0 *gb00-04-22d2t06.shn
+c567cb1dd51066b54b7f56460a1ec9cd *gb00-04-22d2t07.shn
+32f4311cb885d3cd85629c623f48ad3e *gb00-04-22d2t01.shn
+a711e7a65a14750cc640f00a8e7c4cae *gb00-04-22d2t09.shn

@@ -1,0 +1,46 @@
+Elvis Costello
+AskJeeves.com Party
+Ruby Syke
+San Francisco, CA
+27 April 2000
+
+Elvis Costello, Nick Lowe, Jim Keltner, and Austin Delone perform at an
+Ask Jeeves corporate party.
+
+01 Accidents Will Happen
+02 (The Angels Wanna Wear My) Red Shoes
+03 Everyday I Write the Book
+04 Veronica
+05 Radio Sweetheart / Jackie Wilson Said
+06 Deep Dark Truthful Mirror
+07 Pouring Water on a Drowning Man
+08 Honey Are You Straight or Are You Blind?
+09 Mystery Dance
+10 It Tears Me Up
+11 Tonight the Bottle Let Me Down
+12 My Baby's Gone
+13 Alison
+14 Leave My Kitten Alone
+15 I Can't Stand Up For Falling Down
+16 Pump it Up
+17 God's Comic
+18 Happy Birthday to Jim Keltner
+19 (What's So Funny 'Bout) Peace, Love, and Understanding?
+
+artwork site #1: http://tinyurl.com/agtv
+artwork site #2: http://groups.yahoo.com/group/Highfidelityelvis/files/
+
+
+NOTE: This is not my "rip." It was downloaded from alt.binaries.sounds.shn in April 2003. It was posted by "manoutoftime." I decoded the SHN files, but forgot that mkw Audio Compression Tool would automatically delete the SHN files when decoded to WAV. So I encoded them to SHN yet again, deleted the old MD5 file, and added the show to my archives. I also changed all the file names, since they were generic names like "(01) Unknown Artist - Track01.wav."
+
+The only information included with the post was the date. I created this NFO file, filling in all the track names, and reprinting the "review" I found online at http://www.elviscostello.info. Thanks to Blind Morton Henkin for posting the tracklist.
+
+- zr
+
+--------------------------------------------------------------------------
+
+
+Elvis loves the SF nightlife 
+San Francisco Gate, May 3, 2000
+
+AskJeeves.com, the Emeryville-based search site starring the civilized butler guy, is now so downright huge they nabbed Elvis Costello to play their monster corporate party last Thursday. Then the British King of America hightailed it to the Fillmore to check out the Boom Boom Room. Apparently, sassy jump-blues singer Brenda Boykin and her band Home Cookin' were going at it when Ms. Boykin alerted the crowd of his arrival. Costello, who had played the AskJeeves gig with Home Cookin' organist Austin Delone, took the stage with Nick Lowe on bass and Jim Keltner on drums and proceeded to play an hour-long set, even including old-standbys like "Alison" and "Pump It Up."

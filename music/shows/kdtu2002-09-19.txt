@@ -1,0 +1,44 @@
+Karl Denson's Tiny Universe
+September 19, 2002
+Barrymore Theatre - Madison, WI
+
+Source: 	DAUD/OTS Schoeps MK4V (ORTF) > KC5 actives > CMC6 >
+		Apogee Mini-Me > Sony TCD-D8 @ 48kHz
+		Patch Master (from D8) used in below transfer.
+		
+Conversion: 	Sony PCM-R500 > AM Presto II Coax > Delta Di0 2496 > 
+		Samplitude v5.5 > CDwav > mkwACT v0.97 
+		(shn files have seek tables appended) **No DAE at all** 		
+
+Detailed info:	This recording was done on a stand Row P seat 4(center approx 40' from stage) & mics @ 8'.
+
+Minor Edits:	Fades in/out beg/end of sets--3 sec fade-in's and 5 sec fade-out's
+		
+Taper: Jeff Kempka
+Huge thanks to Jeff who supplied the patch and ran my deck!
+Transferred, Encoded, and Seeded Matt Edlhuber <medlhuber@hotmail.com>.
+Please contact me with questions etc.  
+
+Disc 1 				                        	     
+01. The Grunt > 
+02. Criminal Mastermind
+03. Richman's Welfare			                   		
+04. Apparently Nothing	                   	
+05. Everything			                   	 
+06. Satisfied >				                   	
+07. The Bunny Player	                   		 
+	Total: 55:30	                   
+
+Disc 2
+01. Because of Her Beauty		                   			
+02. Whip Whop			                   		
+03. Cool Is Back >
+04. Drums >
+05. Cool Is Back
+Encore: 		                   		
+06. What You Want                  			
+	Total: 42:39
+
+Notes: John Scofield Band opened.
+
+Thanks to the soundguy for the setlist.

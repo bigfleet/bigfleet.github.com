@@ -1,0 +1,14 @@
+Del McCoury & David Grisman
+7.31.98
+Lyons, Co
+Rockygrass Bluegrass Festival
+
+Source:	AKG460's w/ CK-1X remote cardiod caps on a stand @ 110 degs, 3 ft high and 30 ft from stage (low back chair sitdown performance) > Tascam DA-P1 
+
+Conversion: Casio DA-R100 @48Khz> S/PDIFF input on Creative Live! sound card > Sound Forge 5.0b @44.1Khz > mkw Audio Compression
+
+Recorded:  		"Taper" Tom McMinn
+Conversion:		"Taper" Tom McMinn
+Uploaded:		"Taper" Tom McMinn
+
+Note that this show was recorded before the Rockygrass Festival allowed taping.

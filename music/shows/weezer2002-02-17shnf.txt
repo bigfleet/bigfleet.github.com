@@ -1,0 +1,78 @@
+Weezer
+February 17th, 2002
+Pepsi Arena
+Albany, NY
+
+Taper:		Oysterhead <Oysterhead00@hotmail.com>
+Source:		AT853s (SP-CMC-8) > SPSB-2 (@16Hz) > Sony TCD-D8
+Location:	Mics at soundboard, approx 7' off the ground.
+Transfer:	Sony TCD-D8 > Sony RM-DK3 > Toslink > Dio 2448
+Encoding:	Dio 2448 > SoundForge > WAV > CDWAV > MKWACT > SHN
+
+Tracklisting taken directly from soundboard setlist
+--------------------------------------------------------
+01.  Island In The Sun				03:59.08
+02.  In The Garage				04:33.23
+03.  Dope Nose (Rivers Solo)			02:26.15
+04.  Why Bother (Brian Solo)			02:46.65
+05.  Knock Down Drag Out			02:44.44
+06.  Death And Destruction			02:41.71
+07.  My Name Is Jonas				03:41.29
+08.  The Good Life				04:14.00
+09.  Keep Fishin				03:04.31
+10.  Photograph					02:15.45
+11.  Undone					04:31.71
+12.  Burndt Jamb				02:49.04
+13.  Don't Let Go (1/2 Chorus)			03:16.33
+14.  Tired Of Sex	 			03:00.24
+15.  Say It Ain't So				04:19.03
+16.  Hash Pipe					03:55.69
+17.  Only In Dreams*				11:46.47
+18.  Buddy Holly				03:09.23
+19.  Surf Wax					07:54.13
+--------------------------------------------------------
+TOTAL						77:10.24
+
+* Includes all the cheering leading up to the encore.
+
+Notes:	Special thanks to the Weezer Recording Project.  Without them there
+	would be no copy of this show.
+
+	The volume of the recording is a little low, but I didn't want to
+	adjust it in SoundForge.  The only digital editing done was the fades
+	at the beginning and end of the show.  The volume is lower at the
+	start of the show and then the soundcrew raises the volume a couple
+	songs in.
+
+	Please do not convert the SHNs to MP3 and trade them.  MP3s are
+	available at http://www.sonicice.net/weezer as part of the Weezer
+	Recording Project.
+
+******************************************************************************
+*DO NOT SELL! DO NOT CONVERT TO MP3! PLEASE INCLUDE THIS FILE WITH ALL TRADES*
+******************************************************************************
+**************http://www.geocities.com/oysterhead00/shnlist.html**************
+******************************************************************************
+
+
+MD5 - FILE INTEGRITY SIGNATURE LIST
+-----------------------------------
+4c2434e188f8b90098a1317815af8990 *weezer2002-02-17t01.shn
+5229f6fa5f92c844619605d44296a662 *weezer2002-02-17t02.shn
+904af4e3ba38a2a689d2677ac53d1c62 *weezer2002-02-17t03.shn
+3cc8a9629101b661df6d888b66221be3 *weezer2002-02-17t04.shn
+fd4f657bf0ea6681d02e4074bd1bfbd5 *weezer2002-02-17t05.shn
+50663332e194a3aca46a8a5f034630aa *weezer2002-02-17t06.shn
+6430197406cad36b6f372bea13cf9a85 *weezer2002-02-17t07.shn
+c1b5b8fdefde247900a2d9597d28260f *weezer2002-02-17t08.shn
+20b2b00476da3f77db9bef1c022d3add *weezer2002-02-17t09.shn
+b3f4037efbd19af80ddfabb7b5352f8f *weezer2002-02-17t10.shn
+0d5e67fd1754805417b1f685d4d44ba3 *weezer2002-02-17t11.shn
+d37b0fcbb5c1c8efed8de858756bf497 *weezer2002-02-17t12.shn
+6dacc151bbac5e1e61915f439aaaf414 *weezer2002-02-17t13.shn
+80373742e1d7cab5916ff60dd4afe7cb *weezer2002-02-17t14.shn
+b5f676961e26e8dc17d10016ab6e64ab *weezer2002-02-17t15.shn
+f926b037f7aaa23c804b133d58f07b2f *weezer2002-02-17t16.shn
+1d215e1b2afcd5c7740868144f4ecf47 *weezer2002-02-17t17.shn
+d2e4a75e90be46cd603605077f668d21 *weezer2002-02-17t18.shn
+a58cf15e1ba1364de15c397e9d65f4e6 *weezer2002-02-17t19.shn

@@ -1,0 +1,61 @@
+David Gray
+05/23/01  
+The Warfield
+San Francisco, CA   
+
+Source: Sat(dsbd)>Sony SAT-A55>optical>Zoltrix Pro6>HD(48KHz)
+Conversion: CEP2k(48->44.1KHz)>CDwav(split)>shn v3
+Seed date: 10/26/01
+
+1.  Intro                       (00:32)
+2.  Sail Away                   (05:57)
+3.  White Ladder                (05:34)
+4.  Nightblindness              (06:45) 
+5.  My Oh My It Just Don't Stop (04:39)
+6.  Babylon                     (06:35)
+7.  This Year's Love            (04:33)
+8.  We're Not Right             (03:10)
+9.  Silver Lining               (06:13)
+10. Twilight                    (03:02)
+11. Please Forgive Me           (07:41)
+Total: 54:41
+
+
+SHOW NOTES:
+none
+
+SEED NOTES:
+This was broadcast as a free-for-view on DirecTV.
+This is not a complete show. The complete setlist
+is added below.
+
+Edititing done on SF5.
+
+Sector boundaries verified with shntool.
+
+Enjoy!
+
+-----------------------
+Complete Setlist
+(-) =song not broadcast
+
+Sail Away 
+White Ladder 
+-Wisdom 
+Nightblindness 
+My Oh My It Just Don't Stop 
+-Real Love 
+Babylon 
+This Year's Love 
+-All The Love -> Black Dog 
+-Debauchery 
+We're Not Right 
+-Everytime 
+Silver Lining 
+Please Forgive Me 
+-Shine 
+Twilight 
+-Late Night Radio -> 
+-Faster, Sooner, Now 
+-Say Hello Wave Goodbye
+

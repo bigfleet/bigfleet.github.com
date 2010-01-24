@@ -1,0 +1,21 @@
+American Music Club
+6.15.1993
+Slim's
+San Francisco, CA
+"Live at Slim's"
+
+Setlist:
+
+Outside This Bar
+Challenger
+Western Sky
+Johnny Mathis' Feet
+I've Been A Mess
+Nightwatchman
+Bad Liquor
+Hula Maiden
+Pale Skinny Girl
+Somewhere
+
+Ripped using EAC and converted to SHN with mkwACT .97 Beta 1 by
+Jim Van Fleet (http://db.etree.org/bigfleet)

@@ -1,0 +1,43 @@
+U2
+12/6/82
+Hammersmith Palais, London, England
+Source: SBD > Liberated boot ("An Electric Company On Stage") > EAC > SHN
+
+
+01 Surrender
+02 I threw A Brick
+03 A Day Without Me
+04 An Cat Dubth
+05 Electric Company
+06 Sunday Bloody Sunday
+07 I Fall Down
+08 Party Girl
+09 I Will Follow
+10 11 O'Clock Tick Tock
+11 Ocean
+12 40
+13 October
+14 New Year's Day
+15 Gloria
+16 Fire
+17 Celebration
+
+MD5 Info:
+
+0049b7bf66bba24d985d04266098514e *u2-1982-12-06d1t01.shn
+e5c13297f7856b4c86b0edac0623ab48 *u2-1982-12-06d1t02.shn
+40d0647b6a32db6dc1f4d96d2004e36d *u2-1982-12-06d1t03.shn
+3684da471e86261e4215278146eb5bd6 *u2-1982-12-06d1t04.shn
+c1153e2166d8ce2168fb474941a60217 *u2-1982-12-06d1t05.shn
+f2333ceb522303c7cf4c910bb700dfe6 *u2-1982-12-06d1t06.shn
+7bf876d5f4e19abaab95cb1a64ac71ee *u2-1982-12-06d1t07.shn
+f97591401100229f714486d961d6800c *u2-1982-12-06d1t08.shn
+0086824196671d5f5940340a0a35b2fe *u2-1982-12-06d1t09.shn
+bc396e27efe291fc80cf939e3372f3dc *u2-1982-12-06d1t10.shn
+90427299e669421c48bbd2a1fde730a8 *u2-1982-12-06d1t11.shn
+3079ac9fa794c74a73ce4dd9deea78bd *u2-1982-12-06d1t12.shn
+94b97b590af85f589996fca46b18edcd *u2-1982-12-06d1t13.shn
+f21e168fbd3f5226b3dbd1a72178a440 *u2-1982-12-06d1t14.shn
+ac15aae09a571c875d422bdf79821b5c *u2-1982-12-06d1t15.shn
+cec388f7bb951c0be6db0ea7af28eccd *u2-1982-12-06d1t16.shn
+a1103dee979e3441ed62e9abee3ad407 *u2-1982-12-06d1t17.shn

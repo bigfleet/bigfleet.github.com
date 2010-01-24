@@ -1,0 +1,31 @@
+Low
+October 23, 2000  
+The Coolidge Corner Theater
+Brookline, MA
+
+Source:  Unknown AUD>[?]>CDR
+Transfer:  CDR>EAC>SHN
+
+1.  Whitetail
+2.  Sunflower
+3.  Dinosaur Act
+4.  Laser Beam
+5.  Two Step
+6.  Starfire
+7.  Surfer Girl
+8.  Shame
+9.  Venus
+10.  Lazy
+11.  Soon
+12.  In Metal
+13.  Closer
+14.  Over the Ocean
+15.  Sleep Song
+
+Comments:
+Some level clipping present throughout this show.
+Ripped using EAC .9 beta 4 (see EAC log for details)
+SHN conversion using mkwACT .97 beta 1
+
+ripped and converted by jprimozic on 18-FEB-2003.
+http://db.etree.org/jp728

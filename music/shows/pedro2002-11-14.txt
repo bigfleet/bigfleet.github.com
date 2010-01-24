@@ -1,0 +1,27 @@
+Pedro the Lion
+11.14.2002
+Mary Jane's
+Houston, TX 2002
+
+SBD > M1 > CDR > EAC > SHN
+
+Setlist:
+
+ 1. Magazine
+ 2. Never Leave a Job Half Done
+ 3. Penetration
+ 4. Indian Summer
+ 5. Song A / Song B ?
+ 6. A Mind of Her Own
+ 7. (New Song)
+ 8. I Am Always The One Who Calls
+ 9. Of Minor Prophets And Their Prostitute Wives
+10. Priests And Paramedics
+11. Options
+12. Second Best
+13. Bad Diary Days
+14. Diamond Ring
+15. The Longer I Lay Here
+
+Ripped using EAC and converted to SHN with mkwACT .97 Beta 1 by
+Jim Van Fleet (http://db.etree.org/bigfleet)

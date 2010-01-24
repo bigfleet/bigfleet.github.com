@@ -1,0 +1,29 @@
+Hot Water Music
+The Mayan Theater
+Los Angeles, CA
+February 20, 2003
+
+Taper:		Al Tovarich (m0n5t3r_@hotmail.com)
+Source:		sp-cmc-2>batt. box w/roll-off@95hz>attenuator>sony mz-r900 (line in)
+Position:	center, next to soundboard
+Transfer:	Sony MZ-R900 (line out) >  VIA AC'97 (line in) > Cool Edit Pro 2.0 > CDR > SHN
+
+########################################
+#	DO NOT SELL THIS SHOW	       #
+########################################
+
+01. Intro
+02. A Flight And A Crash
+03. Remedy
+04.  
+05. I Was On A Mountain
+06. Paper Thin
+07. One Step To Slip
+08. Sweet Disasters
+09. Choked And Separated
+10. 
+11. 
+
+Total Time 34:15
+
+Known Flaws: There was a dropout at 3:19 in track 10. I tried to remove it but, there is still a hint of it.

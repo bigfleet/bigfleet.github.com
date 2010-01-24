@@ -1,0 +1,30 @@
+Beck
+10-29-00
+Shoreline Amphitheatre
+Mountain View, CA
+Bridge School Benefit - Nite 2 (Acoustic Show)
+
+Source: Schoeps mk5 (omni) > Bill Rutelhuber Box > M1  (FOB)
+
+Conversion: Conversion: Sony D8 -> MIT Terminator S/PDIF -> M-Audio DiO24/96 ->
+	    Cool Edit 2000 (44.1 kHz, same as DAT Master) -> CD Wav 1.71 -> mkwACT v0.97 Beta1
+
+Taped by: Chris Howell and crew
+Transferred by: Jered Haddad (funktopu@midsouth.rr.com)
+
+
+Setlist
+
+1. Tropicalia
+2. Bottled Blues
+3. Sing It Again
+4. Nobody's Fault
+5. ?
+6. Ovarie
+7. Static
+8. Jackass (Spanish Version)
+
+*Filler:  Red Hot Chili Peppers 
+	  Acoustic set after Beck's performance, 10.29.00, Bridge School Benefit (same source)
+          This filler was originally included in the mkwACT checksum with the Beck show
+          Both Beck and RHCP may or may not all fit onto one CD

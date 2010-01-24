@@ -1,0 +1,39 @@
+Garaj Mahal
+October 17, 2001
+Otto's - DeKalb, IL
+                                     
+Source:    Schoeps MK4V>KC5>CMC6>AD1000>D8 @ 48kHz
+	   AD1000 @ +20db, softlimit off
+           (FOB/DFC 15' from stage @ 9'stage by Jeff Kempka)
+	   (D8 patch by medlhuber@hotmail.com)
+
+Conversion: Sony PCM-R500 > Audio Magic Presto II > Delta Di0 2496 >
+	    Soundforge 4.5 > cdwav > MKWact (SHNv3)
+            (medlhuber@hotmail.com)
+
+	    Resampling done in Soundforge at Quality Setting 4 w/ anti alias filter.
+
+***This is the new seed, same source.  Reseeded due to sampling error***
+
+Disc 1 
+01: Jam >
+02: Line Games
+03: Jan Jan
+04: Jam
+05: Gulam Sabri
+06: Never Give Up Giving It Up
+07: Hindu Gumbo
+08: World Peace
+09: Mondo Garaj
+10: Poodle Factory Reprise 
+
+	Total: 78:52
+
+If you like to use 74 minute cdrs, I recommend starting disc 2 with Track 8.
+
+Kai Eckhardt(bass), Fareed Haque(guitar), Alan Hertz(drums), Eric Levy(keys),
+unknown (turn tables)
+
+***This is the new seed, same source.  Reseeded due to sampling error***
+
+Compiled 11-26-2001 (medlhuber@hotmail.com)

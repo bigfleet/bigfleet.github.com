@@ -1,0 +1,36 @@
+Medeski, Martin & Wood	
+August 22, 1998 
+Vic Theater, Chicago IL
+
+Source: Sbd > Sony TCD-D8 (48 Khz)
+
+Transfer: Tascam DA-20mkII (coaxial output) > Zefiro ZA2 (resampling to 44.1 Khz) > HD > 
+CD Wave (tracking) > SoundForge (2 sec. of silence before Disc 1 Track 01, fade at end of Disc 2 Track 05)
+
+Notes: Sector boundaries in Disc 1 Track 01 fixed w/ shntool, thanks to Caleb Epstein <cae at bklyn dot org> for 
+the heads-up.
+
+Disc 1 
+01 Intro (beginning cut, late board feed) (1:04)
+02 Jellybelly (11:02)  
+03 Lifeblood (6:45) 
+04 Start / Stop (8:18)  
+05 Sugarcraft (5:02) 
+06 Spy Kiss (5:22)
+07 Just Like I Pictured It (8:07) 
+08 Latin Shuffle (12:45) 
+09 Wiggly's Way (6:19)   
+10 No Ke Ano Ahiahi (5:02)
+
+Disc 2 
+01 Band Introductions (2:05) 
+02 Gonzo* (12:00)  
+03 Encore Intermission (w/ DJ Logic) (2:18) 
+04 Bubblehouse* (9:18) 
+05 Epilogue (2:21)
+
+Total Time: 97:49
+
+* w/ Oren Bloedow (Chocolate Genius) and w/DJ Logic for most of the show 
+
+

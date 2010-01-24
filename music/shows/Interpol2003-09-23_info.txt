@@ -1,0 +1,29 @@
+Interpol
+September 23, 2003
+The Ogden Theater 
+Denver, CO
+
+Stealth Audio Mid Grade mics -> Sony NZ707 MD -> Compaq SoundMax soundcard -> Goldwave (record + split to wavs) -> shn (mkwact)
+Recording Type - General Admission
+Body Placement - about 25 feet back, just to the right of the soundboard
+Mic Placement - Stereo lapel clips
+Sound Quality - Not perfect, but you can hear everything- the mics had a bit of a problem with all the bass- kind of distorted when it was loud
+(unfortunately there is no recording settings I could change with my md recorder, so it was basically the best I could get with the equipment I have- a good example of getting what you pay for with a 40 dollar mic)
+	
+
+01. Untitled
+02. Say Hello To The Angels
+03. Stella Was A Diver And She Was Always Down
+04. (new song)
+05. Hands Away
+06. NYC
+07. Obstacle 1
+08. NARC (new song)
+09. Leif Ericson
+10. Roland
+11. PDA
+12. Obstacle 2
+
+
+recorded and seeded by DocOctavius
+dococtavius@cfl.rr.com

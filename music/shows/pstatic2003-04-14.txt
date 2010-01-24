@@ -1,0 +1,40 @@
+Portastatic
+2003.04.14  
+Phoenix Concert Theatre
+Toronto, Ontario, Canada 
+
+
+Taper:              Brandon Triance-Haldane
+Source:             Dynamic Audio Binaurals > DA-120F Custom Battery Box > TCD-D8
+Location:           ~6 feet from right P.A. stack.
+Conversion:         TCD-D8 > Coresound 7pin to coax > Zoltrix Nightingale Pro 6 
+Resampling:         None
+Editor:             Brandon Triance-Haldane	
+Editing:            Cool Edit Pro 2.0 (fades), CDWave 1.71 (track splits)
+SHN:                master DAT > Cool Edit Pro > CDWave > MKW Audio Compression Tool
+Flaws:              i)  Slight rattling or something, mostly in right channel.  
+                    ii) A bit of talking here and there courtesy of the women in front of me.
+
+
+************************************************************************************
+	            DO NOT MP3 OR SELL THIS RECORDING
+************************************************************************************
+
+Disc 1- [49:31]
+
+01.  intro
+02.  This Must Be The Place
+03.  Drill Me
+04.  Memphis
+05.  
+06.  Paratrooper
+07.  Oh Come Down
+08.  hockey banter
+09.  Hurricane Warning
+10.  broken string, ira's guitar
+11.  Noisy Night
+12.  Chesapeake
+13.  Hey Salty
+
+
+- Opening for Yo La Tengo.

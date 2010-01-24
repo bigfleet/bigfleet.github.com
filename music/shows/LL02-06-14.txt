@@ -1,0 +1,39 @@
+Los Lobos at:
+Historic Mountain Winery, Saratoga CA 
+06/14/2002
+
+
+***FOR TRADE ONLY***Please Do Not encode to MP3
+
+Taper: Dan Gale
+Source: Neumann KM 140's (ORTF)>SD MP-2>AD2K> DAT (D8) master;
+Transfer: SonyPCM-R500>TascamCD-RW700>CDR(master)>EAC(v0.93b1)>WAV>
+SHNtool (verify SB's)>mkwACT (v0.97b1)>SHN(seeking).
+DAE, sector boundary verification, and SHN encoding by Hans Voight (salmonjock@hotmail.com)
+setlist courtesy of http://LosLobos.setlist.com  
+
+
+Disk 1:
+          Wicked Rain 
+          This Time> 
+          Waiting in Vain> 
+          This Time 
+          Malaqúe> 
+          *Maria Christina 
+          *Hearts of Stone 
+          That Train Don't Stop Here 
+          Maricela 
+          The Big Ranch 
+          Luz De Mi Vida 
+          Done Gone Blue 
+          Someday 
+          Don't Worry Baby 
+          Anselma 
+Disk 2:          
+          +Cumbia Raza
+          --- 
+          Encore: 
+          Good Morning Aztlán
+
+     *-w/Marta Gonzalez (from Quetzal) on vocals 
+    +-w/members of Quezal on tres, violin, percussion and background vocals 

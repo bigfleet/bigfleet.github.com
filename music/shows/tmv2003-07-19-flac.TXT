@@ -1,0 +1,43 @@
+The Mars Volta
+July 19, 2003
+Axis
+Boston, MA
+
+Tracks:
+ 01 intro
+ 02 Son Et Lumiere
+ 03 Inertiatic ESP
+ 04 Roulette Dares
+ 05 solo
+ 06 Drunkship Of Lanterns
+ 07 jam > Drunkship (continued)
+ 08 talking
+ 09 Eriatarka
+ 10 interlude
+ 11 Cicatrix ESP
+ 12 talking 2
+ 13 This Apparatus Must Be Unearthed
+ 14 Televators
+ 15 Take The Veil Cerpin Taxt (cut)
+
+Taper:       RJL
+Source:      AT831's > SP Batt Box [roll-off @95] > Sony MZ-N707 MD [SP mode]
+Location:    left side, 3/4 back from stage (~50 ft?), shoulder mounted 
+
+Conversions:
+ 1) MD > WAV [CoolEdit Pro > CD Wave] > FLAC (THIS IS THE COPY YOU HAVE)
+ 2) MD > WAV [Audacity > CD Wave] > MP3 @ 192
+
+Notes:
+ - The set is incomplete. I lost track of time & didn't swap discs. The
+   disc cuts out right during the "Take The Veil" bass solo.
+ - I showed up late and did not have choice positioning. I was staring almost directly
+   a concrete pillar.
+ - It's my first recording, so gimme a break.
+ - This will fit on a single 80 minute CDR when recorded DAO.
+ - I normally don't bother with MP3, but encoded an MP3 version for download at
+   http://www.thecomatorium.com/.
+
+
+ < RJL | rlockne1 AT alum.clarku.edu | http://www11.brinkster.com/arjayel >
+

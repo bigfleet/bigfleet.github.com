@@ -1,0 +1,22 @@
+Living Daylights
+8.29.2001
+The Boulevard Cafe
+Chicago, IL
+
+Source: Schoeps > mk21h> kc5> cmc6> Schoeps vms 52ub> Sonic ad2k+> m1(m)
+stage-lip/dfc [mike yurkus and kurt ruthe]
+
+
+Transfer: Transfer: d8(m)> oade active> s/pdif coax> digigram vx pocket>
+dell inspirion 4000 (1g/512m)> soundforge 5> western digital 1eee 1394 pcmcia>
+ieee1394> hdd> cd-wav> mkshn... lakeside funk labs [kurt ruthe]
+
+
+No setlist available
+
+Part of the Chicago Festival of Funk & Groove 2001 
+www.silverwrapper.com/html/cffg.html
+
+Ripped using EAC and converted to SHN with mkwACT .97 Beta 1 by
+Jim Van Fleet (http://db.etree.org/bigfleet)
+

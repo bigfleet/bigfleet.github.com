@@ -1,0 +1,33 @@
+Godspeed You Black Emperor!
+
+2002.04.18
+Paradiso; Amsterdam, NL
+
+Taper:              Maarten Groeneveld
+Source:             SL-ALEM-106 > MZ-R37
+Conversion:         Akai MD-720 > Optical Cable > Soundblaster Live! Platinum
+Resampling:         None
+Editor:             Maarten Groeneveld
+Editing:            CD Wave Editor track split, mic noise removal in 
+SHN:                master MD > CDR-0 > EAC > MKW Audio Compression Tool
+
+******************************************************************************************************************
+	                    THIS SHOW IS NOT TO BE MP3-ENCODED	
+******************************************************************************************************************
+
+Disc 1:
+01. Tazer Floyd (part I)                06:19
+02. Tazer Floyd (part II)               10:07
+03. Gathering Storm                     20:37
+04. Dead Metheny                        17:52
+05. World Police                        12:23
+
+Disc 2:
+01. Motherfucker = Redeemer (part I)    11:56
+02. Motherfucker = Redeemer (part II)   31:12
+03. The Sad Mafioso (part I)            08:11
+04. The Sad Mafioso (part II)           21:23
+
+Notes:
+Transfered by Rens Lohmann. Disc flip after Dead Metheny. Taper had mic problems, so some mic noise was removed around 00:08 and 00:43 in World Police,
+and the recording was made mono around 14:00 in The Sad Mafioso (part II). Your ears will be saved from bleeding! :)

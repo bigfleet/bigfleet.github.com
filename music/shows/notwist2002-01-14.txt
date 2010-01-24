@@ -1,0 +1,28 @@
+The Notwist & Console
+München, GER, Pathos Transport Theater
+January 14, 2002
+
+Source: FM > DAT > CD-R [aired on BR2 "Nachtmix" 21.01.2002]
+Comment: Release party for "Neon golden". Performed with String & Brass section. 
+Notwist performed upstairs & Console performed downstairs - at the same time.
+Console's samples were broadcast simultanously on FM radio. Attendees were 
+asked to bring hand-held radios & to tune in the Console performance while watching
+Notwist.
+
+01. Radio Announcement (1:53)
+02. Intro/Transistor 1/Pick up the Phone (11:40)
+03. Pilot (6:37)
+04. No Encores (5:10)
+05. Neon Golden (6:30)
+06. Off the Rails (4:27)
+07. One with the Freaks (4:50)
+08. Solitaire (4:10)
+09. Transistor 2/Radio Info (9:33)
+[54:25]
+
+Comments:
+Ripped using EAC .9 beta 4 (see EAC log for details)
+SHN conversion using mkwACT .97 beta 1
+
+ripped and converted by jprimozic on 21-FEB-2003.
+http://db.etree.org/jp728

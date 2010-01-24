@@ -1,0 +1,23 @@
+Sunny Day Real Estate
+12.11.94
+Universal Amphitheatre, Anaheim, CA
+
+
+"We don't go there because one person in the band, for his own private reasons, simply refuses.
+So we're going without him. The idea is that because the show is acoustic, perhaps we can get away with only having one guitar.
+ We're coming up with a set that will hopefully not suffer much for Dan's absence." -Nate
+
+transfer: 	*Analog* 
+Editing:	CEP v1.2 & CD WAV
+Source:		FM>Ana-M>PC(via onboard *analog* soundcard)>WAV>SHN
+Equipment:	JVC TD-W203, RCA "Y" Cable
+
+Set:
+01.In Circles	
+02.Red Elephant	
+03.Friday	
+04.Sometimes	
+
+
+I Should have taken better care of these cassettes. =\
+Recorded and Transferred by Gil Sanchez.

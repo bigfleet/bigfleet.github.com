@@ -1,0 +1,27 @@
+Tindersticks
+1.23.1996
+Kultur Boblaget
+Malmo, SWE
+
+Source: Unknown
+
+Setlist:
+
+ 1. For Those...
+ 2. Tiny Tears
+ 3. Her
+ 4. Talk To Me
+ 5. She's Gone
+ 6. Another Night In
+ 7. Jism
+ 8. Sleepy Song
+ 9. A Night In
+10. Drunk Tank
+11. Here *
+12. Seaweed *
+13. Dick's Slow Song *
+
+* - KCRW, 1996
+
+Ripped using EAC and converted to SHN with mkwACT .97 Beta 1 by
+Jim Van Fleet (http://db.etree.org/bigfleet)

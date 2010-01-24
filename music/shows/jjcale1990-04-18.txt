@@ -1,0 +1,104 @@
+J.J. Cale
+Guthrie Theatre
+Minneapolis, MN 
+4-18-90
+
+Source:  SBD > Master Reel > DAT (48kHz) 
+ 
+Early Show Transfer: 
+D8 > Waveterminal 2496 (@44.1kHz) > Soundforge > CD Wave > mkwACT > SHN
+
+Late Show Transfer:
+DA-20 > ZA2 (@44.1kHz) > Cool Edit > Gold Wave > SHN
+
+D4t04-06
+
+DAT > ? > CDR > EAC > SHN (Spliced in with Wave Merge and CD Wave)
+
+compiled and seeded by jason@spreadwidepanic.com
+
+Early Show:  (90:19.45)
+Disc 1:					62:02.30
+
+01.  After Midnight			03:51.39
+02.  Riverboat Song			03:10.42
+03.  Mama Don't Allow			05:28.42
+04.  Humdinger				05:05.08
+05.  Hold on Baby			04:38.33
+06.  New Orleans			03:54.06
+07.  Lickin' Stick			05:21.50
+08.  Sweet Inspiration			04:29.48
+09.  Thirteen Days			04:07.30
+10.  Harlem Nocturne			02:49.04
+11.  Disadvantage			04:27.21
+12.  Hard Times				06:14.01
+13.  Movin' Blues			04:45.31
+14.  Magnolia				03:39.50
+
+Disc 2:					28:17.15			
+
+01.  Call Me the Breeze			05:44.08
+02.  Cocaine				07:35.60
+
+Encore:
+03.  Money Talks			04:22.69
+04.  Crazy Mama				03:52.24
+05.  Ride Me High			06:42.04
+
+Late Show:  (106:04.21)  
+Disc 3:					69:40.49
+
+01.  Cajun Moon				03:31.39
+02.  Clyde				05:34.21
+03.  Goin' Down				09:32.67
+04.  Bringing It Back			06:27.03
+05.  Tijuana				05:34.50
+06.  No Time				05:37.47
+07.  Down in Hollywood			07:12.36
+08.  I'm Your Puppet			03:50.51
+09.  Lies				04:03.73
+10.  instrumental			03:40.11
+11.  You Don't Know What Love Is	05:39.65	
+12.  People Lie				04:39.11
+13.  Little Lou				04:16.25
+
+Disc 4					66:18.70
+
+01.  Shanghaid				04:14.07
+02.  Treat Me Right			05:02.40
+03.  instrumental			12:41.14
+04.  After Midnight			06:15.49
+05.  Sensitive Kind			04:07.56
+06.  Disadvantage 			05:52.54
+
+  
+Line Up:
+
+J.J. Cale (lead guitar)
+Tim Drummond (bass)
+Spooner Oldman (keys)
+James Cruse (drums)
+Steve Douglas (sax)
+Christine Lakeland (rythm guitar)
+Jim Karstein (percussion)
+
+
+Disc 4 Filler  (29:55.23): JJ Cale (Unknown Venue/s, Date/s & Source/s)
+
+07.  River Runs Deep			05:52.54
+08.  Roll On?				03:25.48
+09.  ?					10:26.17
+10.  Crazy About a Mercury?		05:50.28
+11.  ? (cut)				04:20.26
+
+
+
+Known Flaws:
+
+Several Small Drop Outs ~.030 sec and smaller were removed but most of these edits inaudible.
+
+Notes:
+
+As you can see I had to piece this together from multiple sources to get this seed complete. Turns out to have been well worth the effort.  Big thanks to Lee and Skip for the help in compiling this great seed!
+
+If I missed any errors or you have any information about the filler please contact me at jason@spreadwidepanic.com

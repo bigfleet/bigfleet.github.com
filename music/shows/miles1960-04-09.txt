@@ -1,0 +1,28 @@
+
+Miles Davis Quintet
+April 9, 1960
+Kurhaus, Scheveningen
+VARA radio broadcast
+
+Miles Davis (tpt)
+John Coltrane (ts)
+Wynton Kelly (p)
+Paul Chambers (b)
+Jimmy Cobb (d)
+
+So What                               17:40
+'Round Midnight                        5:47
+On Green Dolphin Street               12:37
+Walkin'                                8:30
+The Theme                              0:40
+
+SBD/8 46(DATC1)>--CD>DAT1>CDR1 > SHN (no seektables)
+(My copy had extraneous data in the WAVE headers according to ShnTool.  I used the 'Strip' mode in ShnTool to remove the extra data.  I then generated new MD5's [both WAV and SHN]
+-marco  shnman@usa.net)
+
+All kinds of URL's for this one:
+
+http://home.att.net/~dawild/jcdisc60.htm#600409
+http://db.etree.org/lookup_show.php3?shows_key=52978
+http://db.etree.org/lookup_show.php3?shows_key=47696
+

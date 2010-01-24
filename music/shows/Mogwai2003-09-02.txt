@@ -1,0 +1,55 @@
+Mogwai
+September 2, 2003
+The Phoenix Concert Theatre
+Toronto, Ontario
+Canada
+
+Tapers:      Brandon Triance-Haldane & Fares Halteh
+Sources:     1. Schoeps MK41 > KCY-Active Cables > Schoeps VMS U5 
+                > Edirol UA5 (digi-mod out) > Sony PCM-M1 
+             2. SBD > -11 DB Attenuator > Sony TCD-D8 (mixed mono)
+Location:    front center of soundboard, mic stand ~60 ft back 
+Conversion:  PCM-M1 > Coax 7-pin Cable > Midiman Audiophile 2496
+             TCD-D8 > Coax 7-pin Cable > Zoltrix Nightingale Pro 6   
+Resampling:  1. AUD: 48k software downsampled in Cool Edit Pro 2.0 (999)
+                to 44.1k
+             2. SBD: Taped @ 44.1k
+Editor:      Fares Halteh + Brandon Triance-Haldane
+Editing:     cd wave editor
+SHN:         master DAT(s) > Cool Edit Pro 2.0 > cd wave editor > mkwACT
+                                                              
+
+**********************************************************************
+	                      share the music!
+**********************************************************************
+
+
+Disc 1                                                        Length
+----------------------------------------------------------   --------
+
+01 - kids will be skeletons                                     03:11
+02 - mogwai fear satan                                          10:15
+03 - hunted by a freak                                          04:50
+04 - ithica 27-9                                                04:07
+05 - stop coming to my house                                    04:03
+06 - helicon 2                                                  03:28
+07 - you don't know jesus                                       06:12
+08 - helicon 1                                                  08:52
+09 - ratts of the capital                                       10:53
+encore:            
+10 - i know you are but what am i?                              04:30
+11 - xmas steps                                                 10:24
+
+                 
+70:49
+
+
+
+Special thanks to the band, their tour manager and soundman for allowing to us to tape
+extended thanks to Andrew Kwon for letting us borrow the Edirol UA5 and mic stand.
+
+
+Fares Halteh <Halteh3 AT Rogers DOT com>
+Brandon Triance-Haldane <Brandont_h AT nexicom DOT net>
+
+- Compiled by Fares Halteh, 2003.09.04

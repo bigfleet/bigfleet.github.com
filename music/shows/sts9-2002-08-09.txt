@@ -1,0 +1,31 @@
+Sound Tribe Sector 9
+Berkfest Main Stage
+Great Barrington, MA
+August 9, 2002
+
+Source: FOB DFC Schoeps MK4/KC5/CMC6 > V2 > AD2k > DA-P1 > D8
+	(~ 35ft from stage lip)
+
+Transfer: D8 > Monster Coax > CO2 > Monster Optical > Fortissimo II > 
+	Soundforge 6.0 > CDWav > shn
+
+Patched, transferred, and seeded by Chase Banna cbanna@rochester.rr.com
+
+Any help with the setlist would be appreciated
+
+Notes: Second part of show with Karsh Kale on vocals and percussion.
+
+1 Circus
+2 Kamuy
+3 Mischeif of a Sleepwalker
+4 New Try
+5 Movement
+
+1 Eclipse
+2 Orbital>Life's Sweet Breathe>Orbital
+3 Today
+
+*One of the two question marks is called Today, I don't remember which
+
+
+

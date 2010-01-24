@@ -1,0 +1,17 @@
+Massive Attack
+11.30.1999
+Brussels, Belgium
+"Live at Brussels"
+
+Setlist
+1. angel [4:57]
+2. risingson [4:55]
+3. teardrop [5:32]
+4. karmacoma [6:08]
+5. hymn of the big wheel [6:06]
+6. safe from harm [7:16]
+7. unfinished sympathy [5:18]
+8. group four [13:02]
+
+Ripped using EAC and converted to SHN with mkwACT .97 Beta 1 by
+Jim Van Fleet (http://db.etree.org/bigfleet)

@@ -1,0 +1,32 @@
+john prine  
+strawberry music festival 
+yosemite, ca
+05/29/99
+
+SBD > ? > CD > EAC(secure) > WAV > SHN
+*wav files checked with shntool (no fix needed) and encoded with mkwACT.
+
+disc 1: (53:42)
+01 spanish pipedream
+02 six o'clock news
+03 souvenirs
+04 fish & whistle
+05 grandpa was a carpenter
+06 you got gold
+07 linda goes to mars
+08 all the best
+09 angel from montgomery
+10 dear abby
+11 let's talk dirty in hawaiian
+12 donald & lydia
+
+disc 2: (57:11)
+01 last night
+02 it's a big old goofy world
+03 sam stone
+04 bear creek blues
+05 i ain't hurtin' nobody
+06 the sins of memphisto
+07 lake marie
+08 hello in there
+09 paradise

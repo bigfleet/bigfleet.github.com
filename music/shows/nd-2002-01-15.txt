@@ -1,0 +1,29 @@
+New Deal
+1/15/02
+Forwell Hall,
+Fanshawe, College,
+London, Ont.
+
+Source: AKG C4000 (omni, 30' split)-->Samson Mixpad 4-->DA-P1 @48KHz
+Transfer:  DA-P1-->coax-->Midiman Audiophile2496-->Soundforge 5.0-->CD Wave-->SHN (using mkwACT v0.97Beta)
+taped, transfered & SHN'd by: Karl Letonja
+
+Note: I placed one mic in front of each of the main speaker stacks and hung them from a pipe
+that was suspended from the ceiling and was approx 3' back from the stacks.
+
+
+Disc #1
+1. DJ-->  (3:00)
+   Set #1
+2. ???  (23:42)
+3. ???  (29:18)
+4. DJ  (1:03)
+(total time:  57:03)
+
+Disc #2
+1. DJ-->  (0:42)
+   Set #2
+2. ???  (29:52)
+3. ???  (28:16)
+4. DJ  (2:10)
+(total time:  61:01)

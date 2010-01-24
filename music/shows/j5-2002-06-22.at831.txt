@@ -1,0 +1,51 @@
+Jurassic 5
+The Arena, Bonnaroo Festival: Manchester, TN
+June 22, 2002
+
+
+********************
+********************
+
+PRESERVE THE QUALITY
+DO NOT ENCODE TO MP3
+
+********************
+********************
+
+
+Taper: Boogie Shafer
+Source: AT831's > SP SB-2 > Sony PCM-M1 @ 44.1kHz
+Location: FOB, Right of Center @ 15' from stack
+
+Transfer: Fostex D-5 > M-Audio Delta DiO 2448 > 
+          Sound Forge 6.0 > WAV @ 44.1kHz
+
+Editing/Tracking: Sound Forge 6.0 / CD Wave 1.71
+
+Conversion: WAV > shntool 1.01 > WAV > mkw 0.97beta1 > SHN (no DAE)
+
+Disc 1:
+01.		[04:01.69]
+02.		[07:43.64]
+03.		[05:26.36]
+04.		[06:45.17]
+05.		[04:26.12]
+06.		[03:26.49]
+07.		[03:56.61]
+08.		[04:20.04]
+09.		[08:17.62]
+10.		[04:03.30]
+11.		[06:04.42]
+12.		[05:17.56]
+
+Total:		[63:50.52]
+
+
+
+Notes:
+
+I didnt take the time to figure out the setlist yet, if you know it let me know
+
+Compilation/COnversion: boogie@dubious.com (07/03/2002)
+
+If you would like a copy of this show contact me for a B&P

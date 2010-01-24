@@ -1,0 +1,62 @@
+Radiohead
+June 7, 2003
+Field Day Festival
+Giants Stadium
+East Rutherford, NJ
+
+
+Tapers:	    JT & CT
+Source:	    Schoeps CCM4s > Sound Devices MP-2 > Sony PCM-M1 (@48k)
+Location:   ~100' from stage, DFC - Mics in Kangol on JT's head
+
+Conversion: CT
+Equipment:  Archive Python DDS Drive > Adaptec SCSI Card > DAT2WAV 1.2 > 
+	    CEP 2.1 (downsample Pre/Post @ 999) > SF 6.0e (gain +6db) >
+	    CEP 2.1 (swap channels) > CD Wave 1.82 > mkwACT .97b1 
+	    (seek tables appended)
+
+Disc 1:
+-------
+1.  Intro				00:28
+2.  Where Bluebirds Fly			01:27
+3.  There There				05:29
+4.  2 + 2 = 5				03:48
+5.  The National Anthem			04:31
+6.  Lucky				04:38
+7.  Just				04:08
+8.  Kid A				03:55
+9.  Go to Sleep				03:31
+10. Climbing Up The Walls		04:29
+11. Backdrifts				07:12
+12. Sail To The Moon			04:18
+13. Sit Down. Stand Up.			04:19
+
+				Total	52:18
+
+Disc 2:
+-------
+1.  Pyramid Song			05:08
+2.  No Surprises			04:12
+3.  I Might Be Wrong			04:59
+4.  Where I End and You Begin		04:42
+5.  Paranoid Android			06:23
+6.  Idioteque				04:23
+7.  Everything In Its Right Place	07:38
+8.  E1:  Exit Music (for a film)	04:47
+9.  E1:  Myxomatosis			04:53
+10. E1:  Talk Show Host			05:06
+11. E1:  Intro to... 			01:15
+12. E1:  How To Disappear Completely	08:58
+
+				Total	62:32
+
+
+Notes:
+------
+-  There's some brickwalling in the bass :-/
+-  Mics cables were flipped on the MP-2 so I swapped the channels in CEP 2.1
+-  MP-2 batteries were on their way out during the first encore break, 
+   edited out the battery swap, good luck finding where.
+
+
+compiled by CT 2003.06.17

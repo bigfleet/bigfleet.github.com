@@ -1,0 +1,84 @@
+The Roots
+The Fillmore: San Francisco, CA
+March 2, 2003
+
+********************
+********************
+
+PRESERVE THE QUALITY
+DO NOT ENCODE TO MP3
+
+********************
+********************
+
+Taper: johngromley@yahoo.com
+
+Source: AT831's > SP SB-6 > Sony PCM-M1 @ 44.1kHz
+Transfer: Archive Python > dat2wav > WAV @ 44.1kHz
+Editing/Tracking: Sound Forge 6.0 / CD Wave 1.72 (no resampling)
+Conversion: WAV > shntool 1.01 > WAV > shortn32 > SHN (no DAE)
+
+Disc 1:
+01.					[01:34.55]
+02.					[03:51.63]
+03.					[04:24.43]
+04.					[06:55.51]
+05.					[04:31.40]
+06.					[06:14.27]
+07.					[02:26.12]
+08.					[03:40.09]
+09.					[03:23.56]
+10.					[03:42.23]
+11.					[01:48.67]
+12.					[07:29.07]
+13.					[04:13.57]
+14.					[02:42.40]
+15.					[03:27.30]
+16.					[02:22.17]
+17.					[02:03.15]
+
+Total:					[64:52.12]
+
+
+Disc 2:
+01.					[03:57.13]
+02.					[02:56.60]
+03.					[04:50.40]
+04.					[02:56.46]
+05.					[03:26.41]
+06.					[04:23.30]
+07.					[04:55.28]
+08.					[02:38.55]
+09.					[01:27.40]
+10.					[03:30.62]
+11.					[05:13.46]
+12.					[00:26.35]
+13.					[10:28.52]
+14.					[04:14.00]
+15.					[01:15.29]
+16.					[05:08.67]
+17.					[06:44.12]
+
+Total:					[68:34.56]
+
+
+Notes:
+Cody Chestnutt and Navu opened the show for The Roots
+
+Support live music and live musicians
+Never pay for "bootlegs" or live recordings
+
+############
+NOT FOR SALE
+############
+
+
+SHN's made from original recording sources
+
+Transfer/Conversion/Compilation: johngromley@yahoo.com
+
+let me know if you have setlist information or corrections
+
+updated setlist will be posted here
+http://www.geocities.com/johngromley/setlists/roots2003-03-02.at831.txt
+

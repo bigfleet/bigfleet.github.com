@@ -1,0 +1,56 @@
+Phish
+04-25-94
+Knoxville Civic Auditorium, Knoxville, TN 
+--------------------------------------------------------------------------------------------
+This show is included in the 1994 Phish Project.
+http://people.atl.mediaone.net/danmarq/1994_phish_project.html
+----------------
+
+Source:         SBD>C0>DAT @ 48KHz (Unknown DAT generations)
+
+Conversion:     Tascam DA-20 MkII-> Monster Coax-> M-Audio Audiophile 24/96->
+                Soundforge 5.0b (48KHz->44.1KHz at highest setting [4 of 4],
+                with anti-alias filter)-> CD Wave 1.61-> mkwACT v0.97
+                **No DAE at all**
+
+Minor Edits:	Fades (in/out at beginning/end of sets and crossfades at cassette flips)
+----------------
+Transferred by Dan Marquardt <danmarq@msn.com>, please contact me with questions/comments.
+There are also 48KHz shn's of this seed for archival.
+--------------------------------------------------------------------------------------------
+
+CD/Set 1:					59:02
+01. The Landlady->				04:25
+02. Runaway Jim					08:15
+03. Fee						05:44
+04. Foam					09:39
+05. Down With Disease%				07:59
+Ginseng Sullivan* (Not on DAT)
+Dog Faced Boy*    (Not on DAT)			
+06. Tela					06:41
+07. Poor Heart^					02:19
+08. Split Open and Melt				13:57
+
+CD/Set 2:					64:37
+01. The Curtain->				06:49
+02. Sample in a Jar				04:54
+03. My Mind's Got a Mind of its Own->		02:21
+04. Run Like an Antelope			10:46
+05. Mound					05:40
+06. The Squirming Coil->**			09:04
+07. The Divided Sky				12:27
+08. Bouncing Around the Room			03:33
+09. Big Ball Jam				01:55
+10. Big Black Furry Creature From Mars&		01:53
+
+Enocre:
+Amazing Grace* (Not on DAT)
+11. Bold as Love				05:12
+
+--------------------------------------------------------------------------------------------
+
+% A clean cassette 'break' before the start of the acoustic songs.
+^ Cassette flip.
+** Cassette flip.
+& Cassette flip.
+* Acoustic and without mics. 

@@ -1,0 +1,38 @@
+Elliott Smith
+3.1.2000
+Bottom of the Hill 
+San Francisco, CA 
+
+AUD-- No source info available
+
+Setlist:
+
+ 1. son of sam
+ 2. happiness
+ 3. southern belle
+ 4. between the bars
+ 5. la
+ 6. rose parade
+ 7. everything means nothing to me
+ 8. i figured you out
+ 9. angeles
+10. last call
+11. pretty mary k
+12. say yes
+13. color bars
+14. needle in the hay
+15. ? "i'm still here if you want me"
+
+encore 1
+
+16. independence day
+17. ballad of big nothing
+18. st ides heaven
+
+encore 2
+
+19. pitseleh
+20. nightime
+
+Ripped using EAC and converted to SHN with mkwACT .97 Beta 1 by
+Jim Van Fleet (http://db.etree.org/bigfleet)

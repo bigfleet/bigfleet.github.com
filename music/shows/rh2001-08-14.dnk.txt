@@ -1,0 +1,70 @@
+Radiohead 08/14/2001 Suffolk Downs - Boston, MA
+
+Source:         DAUD/FOB Schoeps mk4(ORTF) > kc-5 actives > cmc6 > Sonosax SX-M2(+30db) > 
+		SBM-1(Oade Mod.) > D7 @44.1kHz
+                Master (from D7) used in below transfer
+                
+Conversion: 	R500 > Canare Coax > Sek'd Prodif Plus > Soundforge 5.0 
+		(fade in/out) > CD Wave > mkwACT v0.97 
+		(shn files have seek tables appended) **No DAE or resampling at all**
+
+Detailed info:  Recorded by Microburst w/ help from Jim Raras and Beau Colburn, 
+		on 7' stand at sbd position just right of the board ortf in kangol, 
+		mastering deck was a DA-P1, Beau's deck(D7) out of the male 7-pin out on SBM-1. 
+		Sonosax @ +30dB, SBM-1 line in @ 2.7, @44.1khz, Audio Magic Apprentice 
+		XLR->RCA from Sax->SBM-1.
+
+Minor Edits:    Fades in/out beg/end of show--5 sec in all cases
+
+Tapers: Microburst, Beau Colburn, Jim Raras
+Transferred and uploaded by Jim Raras via Dankseeds
+
+____________________________________________________________________________
+
+*Dankseed Certification received 2001-10-22*
+and posted at http://groups.yahoo.com/group/dankseeds/files/rh2001-08-14/
+Listening test performed by *5* danksters
+
+positive criteria met:
+Tracking- OK
+Seamless and complete- OK
+Lineage listed- OK
+
+negative criteria met:
+DAE- NO
+Resampled- NO
+Diginoise- NO
+___________________________________________________________________________
+
+
+Disc 1
+
+01. Intro/crowd noise
+02. National Anthem (w/ Kid Koala)
+03. Airbag
+04. Morning Bell
+05. Lucky
+06. Knives Out
+07. Packt Like Sardines in a Crushd Tin Box
+08. No Surprises
+09. Dollars & Cents
+10. Street Spirit (Fade Out)
+11. Pearly*
+12. Just
+13. I Might Be Wrong
+14. Pyramid Song
+15. Paranoid Android
+
+Disc 2:
+
+01. Idioteque
+02. Everything In Its Right Place
+03. Encore break/crowd noise
+04. Like Spinning Plates
+05. Talk Show Host
+06. You And Whose Army?
+07. The Bends
+08. Encore 2 break/crowd noise
+09. Karma Police
+10. The Tourist
+11. Crowd Noise/PA music

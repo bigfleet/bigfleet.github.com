@@ -1,0 +1,49 @@
+U2
+April 29, 1987
+Rosemont Horizon - Chicago, IL
+(The Joshua Tree Leg I - North America)
+
+Source:         SBD > ? > DAT @ 48kHz
+		
+Conversion: 	Sony PCM-R500 > Audio Magic Presto II > Di0 2496 >
+		Soundforge 4.5 > cdwav > MKWact (SHNv3)
+		(edlhubermj18@mail.uww.edu)
+		
+		Resampling done in Soundforge at Quality Setting 4 w/ anti alias filter
+	
+Disc 1
+01: Where the Streets Have No Name
+02: I Will Follow
+03: Trip Through Your Wires
+04: I Still Haven't Found What I'm Looking For
+05: MLK
+06: The Unforgettable Fire
+07: Bullet The Blue Sky
+08: Running to Stand Still
+09: Exit
+10: In God's Country
+11: Sunday Bloody Sunday
+	Total: 51:13
+	
+Disc 2
+01: Bad
+02: October
+03: Springhill Mining Disaster
+04: New Year's Day
+05: Pride (In The Name of Love)
+~encore~
+06: Mothers of the Disappeared
+07: With Or Without You
+08: Gloria
+09: 40
+	Total: 53:10
+
+Fades IN>OUT after Sunday Bloody Sunday (on master), i'm guessing cassette or reel flip.
+
+I received this tape labeled SBD, not sure if that is 100% accurate.  
+May actually be FM.  Sounds very nice though.
+
+Compiled 11-19-2001 (edlhubermj18@mail.uww.edu)
+
+
+

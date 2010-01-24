@@ -1,0 +1,39 @@
+Greg Brown
+Twelve Corners Coffeehouse (First Unitarian Church)
+Rochester, New York
+10/06/2001
+
+Benefit for the children of Chuck Cuminale (Colorblind James).
+
+SBD > ? > CD > EAC > WAV > SHN
+
+Disc 1: (54:53)
+01 Further In
+02 A Little Excited
+03 Lullabye
+04 Billy from the Hills
+05 A Little You
+06 Smell of Coffee
+07 Just By Myself
+08 The Way My Baby Calls My Name
+09 It Takes a Lot to Laugh, It Takes a Train to Cry (Bob Dylan)
+
+Disc 2: (64:19)
+01 Let Me Be Your Gigolo
+02 Verona Road
+03 Ashamed of Our Love
+04 If I Had Known
+05 China
+06 Come On In My Kitchen (Robert Johnson)
+encores: 
+07 Shady Grove (traditional)
+08 Wash My Eyes
+09 Canned Goods
+
+Entire show with Karen Savoca and Pete Heitzman.
+
+wav files checked with shntool (no fix needed).
+Encoded to shn with mkwACT.
+
+Conversion by Erin Wolfe <ewolfe1@hotmail.com> 04/02
+ 

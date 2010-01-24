@@ -1,0 +1,86 @@
+*******************************************************************
+*                                                                 *
+*  This recording is provided for your personal enjoyment only.   *
+*  Respect the copyrights of the musicians' whose talents we      *
+*  enjoy:                                                         *
+*                                                                 *
+*  !! DO NOT DISTRIBUTE THIS RECORDING FOR PROFIT OF ANY KIND !!  *
+*  ! Do not support bootleggers by purchasing their recordings !  *
+*                                                                 *
+*  Support the musicians' studio and touring efforts. If we       *
+*  don't support the musicians, we won't continue to have access  *
+*  to this great live music!                                      *
+*                                                                 *
+*  Please DO NOT convert to MP3 for distribution!                 *
+*                                                                 *
+*******************************************************************
+
+Ani DiFranco
+06-22-1999
+Toronto, Ontario - Molson Amphitheatre
+
+Source:      Audience, unknown lineage
+Conversion:  EAC (see Ani19990622*.eac) > SHN
+             by Brian Skalinder [bskalinder@neo.rr.com]
+
+Ani DiFranco - Vocals, acoustic/electric guitar
+Jason Mercer - electric/upright bass, backing vocals
+Daren Hahn   - drums, backing vocals 
+Julie Wolf   - keyboards, accordian, backing vocals 
+* with Maceo Parker
+# with DJ Courtney & Corey Parker
+
+DISC ONE
+
+01. Virtue *
+02. Gravel
+03. Little Plastic Castle
+04. Fuel
+05. Two Little Girls
+06. 32 Flavors
+07. Letter To A John
+08. Pulse
+09. Hello Birmingham
+10. Not A Pretty Girl
+11. Come Away From It
+12. Angry Anymore
+
+DISC TWO
+
+01. My IQ
+02. Shameless
+03. Not So Soft
+04. Anticipate
+05. The Diner #
+06. Hat Shaped Hat
+07. Jukebox
+
+Encore:
+
+08. To The Teeth
+09. Overlap
+__________________________________________________________________________________________
+
+    length     expanded size   cdr  WAVE  probs   filename
+     6:09.00      65091644     ---   --    ---    Ani19990622d1t01.wav
+     4:35.00      48510044     ---   --    ---    Ani19990622d1t02.wav
+     4:06.00      43394444     ---   --    ---    Ani19990622d1t03.wav
+     5:02.00      53272844     ---   --    ---    Ani19990622d1t04.wav
+     5:30.00      58212044     ---   --    ---    Ani19990622d1t05.wav
+     5:17.00      55918844     ---   --    ---    Ani19990622d1t06.wav
+     3:16.00      34574444     ---   --    ---    Ani19990622d1t07.wav
+     4:35.00      48510044     ---   --    ---    Ani19990622d1t08.wav
+     6:36.00      69854444     ---   --    ---    Ani19990622d1t09.wav
+     4:40.00      49392044     ---   --    ---    Ani19990622d1t10.wav
+     7:54.00      83613644     ---   --    ---    Ani19990622d1t11.wav
+     4:10.07      44116508     ---   --    ---    Ani19990622d1t12.wav
+     2:39.00      28047644     ---   --    ---    Ani19990622d2t01.wav
+     4:11.00      44276444     ---   --    ---    Ani19990622d2t02.wav
+     4:55.00      52038044     ---   --    ---    Ani19990622d2t03.wav
+     6:02.00      63856844     ---   --    ---    Ani19990622d2t04.wav
+    11:41.00     123656444     ---   --    ---    Ani19990622d2t05.wav
+     3:42.00      39160844     ---   --    ---    Ani19990622d2t06.wav
+     8:50.00      93492044     ---   --    ---    Ani19990622d2t07.wav
+     7:42.00      81496844     ---   --    ---    Ani19990622d2t08.wav
+     6:01.02      63685148     ---   --    ---    Ani19990622d2t09.wav
+   117:33.09       1186.53 MB                     (totals for 21 files)

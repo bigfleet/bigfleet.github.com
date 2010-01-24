@@ -1,0 +1,18 @@
+Bullfrog feat. Kid Koala 
+6.15.2002
+Concert Stage, Harbourfront Centre 
+Toronto, Ontario 
+
+Source:
+
+AKG C4000 (7th row DFC, 6'high; card, w/bass roll-off on)-->Samson Mixpad 4-->Zefiro In-box A/D-->DA-P1 @44.1KHz
+
+No setlist.
+
+Opening for MMW.
+
+Ripped using EAC and converted to SHN with mkwACT .97 Beta 1 by
+Jim Van Fleet (http://db.etree.org/bigfleet)
+
+** NOTE **
+There are verifiably better sources available for this show.

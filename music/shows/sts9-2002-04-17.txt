@@ -1,0 +1,32 @@
+Sound Tribe Sector 9
+April 17, 2002
+The Rave Underground - Milwaukee, WI
+
+Source: Schoeps MK4V>KC5>CMC6>AD1000>D8@48kHz
+	(FOB/DFC/ORTF @ 7' by Jeff Kempka)
+
+Conversion: Sony D8>Di0 2496>Samplitude 2496>cdwav>MKWact(SHNv3)
+            (medlhuber@hotmail.com)
+
+~set 1~
+01: STS9 >
+02: Movement >
+03: Itza
+04: HB New*
+05: Satori
+	Total ~ 66:52
+
+~set 1~
+01: Kamuy
+02: HB IP#
+03: Jebez
+04: Moonsocket
+05: Baraka
+~encore~
+06: What is Love
+	Total ~ 73:31
+
+*first ever 
+#improv
+
+Compiled 04-18-2002 (medlhuber@hotmail.com)

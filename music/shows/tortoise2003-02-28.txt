@@ -1,0 +1,36 @@
+Tortoise
+2003-02-28
+Henry Fonda Theatre
+Los Angeles, CA
+
+Source: 	Core Sound Binaurals > Battery Box/Bass Filter (filter on) > D8
+Location:	FOB, DFC 10' from stage, 5'5" from ground, mics clipped to hat
+Transter:	D8 > SB Live! > Sound Forge (record, normalization) > CDWav 
+		(tracking) > Sound Forge (fade out at end) > mkw > shn
+
+*************** DO NOT ENCODE TO MP3 ***************
+
+   - Disc One - 
+01. 
+02. In Sarah, Mencken, Christ, Beethoven There Were Women and Men
+03. 
+04. 
+05. 
+06. 
+07. 
+08. 
+09. 
+10. 
+11. 
+12. (crowd)
+
+   - Disc Two - 
+ENCORES
+01. 
+02. 
+03. 
+04. 
+*************** DO NOT ENCODE TO MP3 ***************
+
+- taped and transferred by zspaul@hotmail.com
+- any help with the setlist would be appreciated

@@ -1,0 +1,49 @@
+The Mars Volta
+Henry Fonda Theater
+Los Angeles, CA
+July 1st, 2003
+
+Taper:		Al Tovarich (m0n5t3r_@hotmail.com)
+Source:		sp-cmc2 (at831) > sp-spsb6 @ 160hz > attenuator > Sony 
+			MZ-R900
+Location:	center, balcony, front of soundboard
+Transfer:	Sony MZ-R900 (line out) > Aureal Vortex 2 > Wavelab 4.0 > WAV
+Conversion:	WAV > CD Wave > flac frontend 1.1.0 level=8 > FLAC
+
+*****************************************************************************
+	     DO NOT SELL THIS RECORDING IN ANY SHAPE OR FORM!!!
+*****************************************************************************
+
+Son Et Lumiere
+Inertiatic ESP
+Roulette Dares (The Haunt Of)
+Tira Me A Las Aranas
+Drunkship Of Lanterns
+Eriatarka
+Cicatriz ESP
+This Apparatus Must Be Unearthed
+Televators
+Take The Veil Cerpin Taxt
+Concertina
+
+Total Time: 79:59
+
+Notes:
+ -This is the equalized version.
+ -There is a drop during "Roulette Dares (The Haunt Of)" at 07:14. I tried to
+	remove it but there is still a hint of it there.
+ -I cut the talking and cheering before the encore, "Concertina," so the 
+	whole performance can fit on an 80-minute CD-R. In case you are 
+	wondering what Cedric said:
+	"Thank you for coming out."
+	"Thank you to Alvin for spinning up here, who made it
+		look like 'Showtime at the Apollo.'"
+	"And once again thank you to Saul Williams, who quite
+		frankly kicked your fucking ass."
+
+Comments:
+ -This was a great show. Please share this recording with everyone.
+ -If you see someone selling this show please offer the person who is 
+	buying/bidding a B+P (http://www.mcnichol.com/bnp/).
+ -If you want a non-mp3 sourced copy e-mail me and I will gladly trade or B+P
+	for you.
