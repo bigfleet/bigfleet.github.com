@@ -1,4 +1,4 @@
-p ["00-Johnny Cash Live In Glastonbury 1994 info.txt                                                  ",
+all_that = ["00-Johnny Cash Live In Glastonbury 1994 info.txt                                                  ",
 "1984-11-22 - Italian Memory.txt                                                                   ",
 "2001-06-30-Roskilde_Festival,_Denmark-info.txt                                                    ",
 "2003-04-11 Badly Drawn Boy on Chris Moyles show.txt                                               ",
@@ -674,4 +674,18 @@ p ["00-Johnny Cash Live In Glastonbury 1994 info.txt                            
 "yolatengo19920306.txt                                                                             ",
 "yolatengo2000-05-13.txt                                                                           ",
 "zappa1970-03-07.txt                                                                               ",
-"ztrip&radar1997-11-28.txt                                                                         "].size
+"ztrip&radar1997-11-28.txt                                                                         "]
+
+all_that.collect do |raw_file_name|
+  file_name = raw_file_name.squeeze(" ").chop
+  begin
+    File.open(File.join("/Users/bigfleet/Sites/bigfleet.github.com/music/shows/", file_name)) do |file|
+      3.times do |i|
+        line = file.gets
+        puts "#{i}: #{line}"
+      end
+    end
+  rescue
+    next
+  end
+end
