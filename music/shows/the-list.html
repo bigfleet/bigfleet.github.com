@@ -676,16 +676,26 @@ all_that = ["00-Johnny Cash Live In Glastonbury 1994 info.txt                   
 "zappa1970-03-07.txt                                                                               ",
 "ztrip&radar1997-11-28.txt                                                                         "]
 
+this_str = "<dl>"  
 all_that.collect do |raw_file_name|
+  
   file_name = raw_file_name.squeeze(" ").chop
+
   begin
     File.open(File.join("/Users/bigfleet/Sites/bigfleet.github.com/music/shows/", file_name)) do |file|
+      this_str += "<dt><a href='#{file_name}'>#{file_name}</a></dt>\n<dd>"
       3.times do |i|
         line = file.gets
-        puts "#{i}: #{line}"
+        if line.any?
+          this_str += "<p>"+line.chomp+"</p>"
+        end
       end
+      this_str += "</dd>\n"
     end
   rescue
     next
   end
+  this_str += "</dl>"
 end
+
+puts this_str
