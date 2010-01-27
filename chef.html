@@ -1,0 +1,64 @@
+---
+layout: default
+title: "Chef: A Developer's Take"
+---
+
+<p>I'm more excited about Chef than I have been about any single technology since Dave Thomas introduced me to Ruby on Rails in 2004.  That experience changed my life.  Here's why I think Chef could do the same.</p>
+
+<h2>A Brief Introduction</h2>
+
+<p>Essentially, Chef is about writing Ruby code to issue commands on a machine that leave the machine in a known, desired state.  Chef itself takes a couple of forms: Chef Solo, where all the commands take place on a single machine, and Chef (Client|Server) where the clients communicate with a central machine to communicate about what state is desired and hence, which commands should be run.  Got it?  The <a href="http://wiki.opscode.com/display/chef/Home">OpsCode wiki</a> is a great source of information, as well as #chef on Freenode if your curiosity is already piqued.</p>
+
+<h2>Leaky Abstractions</h2>
+
+<p>I'm a small team (sometimes solo) application developer at heart.  The back-end is my natural habitat.  With the one <i>chuckle</i> glamorous exception of developing the business logic, application developers are basically in the data transport business: strings and numbers, booleans and dates.  We provide for input, output, importing, exporting, reporting, transformation of this data, searching, you can have whatever you like.  To do this, we use tools like Rails, MySQL, and Sphinx.  Most of us probably don't even think of Linux as a tool-- more like some kind of bedrock.  Some of the more exotic applications might use something like memcached, ActiveMQ or RabbitMQ, or one of the new datastores you've been hearing so much about.</p>
+
+<p>I've been a part of enough development projects to sense a basic flow.  You start out with nothing, build a little application and a little example data to go with it.  That process continues until you feel pretty comfortable that you've got a shippable app.  Since my readership is so exceptionally talented and in tune with the marketplace, the application is sure to prove a success.  Such a success, in fact, that you start to find that you can no longer just dump the production database and copy it to your laptop to find bugs any longer.  Maybe you'll find that you can't dump the production database at all any longer because the site goes down.  Or pages that were working fine last week suddenly bring your entire site to a crashing halt.</p>
+
+<p>For most developers, these data shifting tools start out as black boxes-- abstractions.  Over time, especially as you ask more of them, they will leak.  Your approach towards managing these leaks can make a big difference in the long-term livelihood of your application.</p>
+
+<h2>But I like my abstractions!</h2>
+
+<ul>
+<li>"We need to hire a sysadmin or a DBA!"</li>
+<li>"Oh, well, if my boss just let me investigate and get X or Z in place..."</li>
+<li>"I've never been trained about compound indexes in MySQL!"</li>
+<li>"I've never even heard of iowait?"</li>
+<li>"So how many files <strong>CAN</strong> I have in a GFS directory?"</li>
+</ul>
+
+<p>I call bullshit.</p>
+
+<p>Sure, we'd all love to be able to influence our bosses to allow us time to make our jobs easier.  Allow me a moment to explain something to you about the natural state of your boss (or client):  they care about working product, making deadlines, meeting customer needs, revenue growth, and keeping costs low.  Although they will ultimately be responsible if the project runs into the ditch, technology is not their job.  Technology is <strong>your</strong> job.  They may care in some broad sense how the work is completed, but it is <strong>your</strong> work.  A sysadmin or DBA can almost certainly help, but how long will it take to bring them up to speed?  How much will that cost?  Can you live with the loss of control that will <strong>definitely</strong> follow?</p>
+
+<p>"Know your tools" is a pretty hackneyed phrase; I'm sure you've heard it.  You should know that you're supposed to know your tools already.  I'm sure some of you do, and even more feel like they do.  What excites me most about Chef is this--</p>
+
+<p><strong>Chef is about systematically providing you with a means to know your tools in the environment that matters most: your own application's environment.</strong></p>
+
+<h2>The Theory of Similar Systems</h2>
+
+<p>Let's back up for a second, to our putative start-up.  You've got some code, you've got some data, things are looking good, and it's time to actually get this deployed somewhere other than a developer machine.</p>
+
+<p>Odds are, you've been developing on OS X and not deploying there.  Have you ever seen "Building native dependencies: this might take awhile"?  You're not going to be able to vendor (or freeze or bundle, or whatever the hell we're doing now) that gem, at the very least.  So how are you going to make sure it gets out to your environment?  OK, flash forward two months and you need a staging environment.  What now, try to remember everything you've done and repeat it?  Did you get the right version of those gems?  Are the versions of your libraries and servers the same?  Six months from now, you'll want a load testing environment or a utility slice or both.  Two years from now, you might not even be able to remember all the machines your application is running on.  Starting to feel like maybe you should DRY this up?  I know that you <strong>aren't</strong> thinking <a href="http://en.wikipedia.org/wiki/You_ain%27t_gonna_need_it">YAGNI</a> because all of my readers plan for success, right?</p>
+
+<h2>How Chef Fits</h2>
+
+<p>Chef is a natural fit in the areas of provisioning, configuration, and change management.  Want to start with a bare OS install and end up with a system exactly to your specifications?  Done-- and did I mention the system already acquired rights to access your database and alerted the load-balancer it's ready for action?  Chef can do that.  Want to update all your memcached instances to have twice the amount of memory at the same time that you add a new node and let all your apps know about it?  Chef can do that, too.  Want to try out some new library that needs redis installed?  Chef can help there.  And let's not forget the fact that in the same way your tests can help complement your application documentation, these Chef cookbooks will help complement your architecture documentation.  You have architecture documentation, right?</p>
+
+<h2>It Gets Even More Better!</h2>
+
+<p>So what else does your investment in Chef bring you, the application developer?  Not only is setting up a load testing environment a cakewalk, but by branching and developing your cookbooks, you can test different system configurations with ease and have piece of mind that when you merge those changes in your cookbooks, they'll be reflected accurately everywhere.  EngineYard Cloud has some support for custom cookbooks, which can make the process even easier.</p>
+
+<p>Everyone likes to look good for the boss-- try combining a set of Chef cookbooks for your application with something like <a href="http://github.com/adamwiggins/sumo">sumo</a>.  You (and your off-site database backups) just single-handedly protected your application from meteors striking a data center.  It could happen!  Combine with something like <a href="http://incubator.apache.org/libcloud/">libcloud</a> or <a href="http://deltacloud.org/">deltacloud</a> and you also put your team in position to save big bucks by switching hosts.</p>
+
+<p>Finally, Chef is an <a href="http://www.opscode.com/">Opscode</a> product and the current community is the most helpful I've seen since that early Rails community.  Even better for the application developer, basically all the regulars are great sysadmins.  You're going to start out with configurations that are more secure and more stable than you'd come up with on your own.  If there's something about the "standard" cookbooks you don't like, you can fix up whatever parts you want.  You can mix and match cookbooks, or parts of recipes.  Chef has reasonable rules for all of that.</p>
+
+<h2>Your Take Homes</h2>
+
+<p>Using Chef can help your chosen software run better out of the box.  It can make it easier for you try out new software running alongside application, and if the experiment goes well, bring it into your production environment.</p>
+
+<p>It provides agility for your hosting situation, not just your project.  You get a platform to experiment and improve performance and scalability, at the same time you're documenting and making all your infrastructure repeatable.  When you <strong>do</strong> end up with that sysadmin, he's more likely to be able to do great things because you've provided a platform to do his or her best work.</p>
+
+<p>You get all this while you are positioning yourself to save money and effort in the long term.  And it's free, people!  Just go <a href="http://github.com/opscode/chef">check chef out</a>!</p>
+
+<p>Be prepared out there, ladies and gentlemen.</p>
