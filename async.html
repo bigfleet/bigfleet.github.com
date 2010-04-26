@@ -1,0 +1,108 @@
+---
+layout: default
+title: "Rails and Asynchronicity"
+---
+
+	<p>Let&#8217;s begin with an observation:  performance and scalability are related, but they are not the same.  <a href="http://www.wakaleo.com/component/content/article/212">This blog post</a> includes a practical demonstration by describing how they are tested differently.  Performance is a user concern.  A poorly performing site typically leads to commensurate problems with doing business on the web, such as <a href="http://googlewebmastercentral.blogspot.com/2010/04/using-site-speed-in-web-search-ranking.html">decreased Google PageRank</a>.  Scalability is a systemic concern.  It is about systemic capacity and ability to grow larger or smaller gracefully.  These ideas are related:</p>
+
+
+	<ul>
+	<li>a system that fails to scale will often manifest this inability via a slow (or nonresponsive) site. </li>
+		<li>an application that performs badly can be difficult to grow gracefully, as size tends to magnify performance problems.</li>
+	</ul>
+
+
+	<p>Thinking of asynchronicity (aka async I/O) as a scalability concern should help.  Our specific concern is in handling large numbers of concurrent requests.  Even if the responses are very small and very performant, I can share my experience that this is a sensitive point for operating large applications in Rails.</p>
+
+
+	<h2>Why Async?</h2>
+
+
+	<p>Let&#8217;s take a look at this excerpt from Mike Perham&#8217;s blog <a href="http://www.mikeperham.com/2010/04/03/introducing-phat-an-asynchronous-rails-app/">introducing Phat</a> which runs 100% asynchronous, supporting many concurrent requests in a single Ruby 1.9 process.</p>
+
+
+<blockquote>
+Existing modes of execution suck:
+
+* Single thread harkens back to the days of Rails 1.x, where you started N mongrels to handle up to N concurrent requests.
+* Multiple threads is better but still has fundamental issues in Ruby. Autoloading is simply broken and Ruby’s thread implementation does not scale at all due to the [global interpreter lock].
+</blockquote>
+
+	<p>I&#8217;ll follow up briefly.  Autoloading is used in Rubygems and all versions of Rails after 2.2.  For more information on Ruby&#8217;s global interpreter lock (GIL), I&#8217;ll reference Ilya Grigorik&#8217;s blog: <a href="http://www.igvita.com/2008/11/13/concurrency-is-a-myth-in-ruby/">Concurrency is a Myth in Ruby</a></p>
+
+
+	<p>So, are we doomed to only incremental improvements over a bunch of mongrel processes running on a box?  Not quite.</p>
+
+
+	<h2>Let&#8217;s Go Shopping</h2>
+
+
+	<p>One of the reasons for Unicorn&#8217;s success is that it eschews Ruby&#8217;s concurrency model and uses Unix&#8217;s.  Ryan Tomayko discusses the particulars in &#8220;his post on Unicorn.&#8221;  One of the downsides (which Ryan acknowledges and dismisses) is portability.  Another is a look at history: &#8220;the apache webserver itself used a prefork model for years&#8221;http://news.ycombinator.com/item?id=865671, before changing its core.</p>
+
+
+	<p>In reading around this issue, you find &#8216;async&#8217; popping up all over the place.  Apache has it, nginx uses it, and so on.  For the past year or so in Ruby, the asynchronous I/O story is &#8220;owned by EventMachine&#8221;http://www.slideshare.net/igrigorik/ruby-c10k-high-performance-networking-rubykaigi-09 (start at slide 11).  What&#8217;s the catch?  Take a look at the <a href="http://wiki.github.com/eventmachine/eventmachine/code-snippets">EventMachine examples</a> examples.  Once it gets beyond the simplest possible example, I personally get lost.  Not much of what I love about Ruby is in there.</p>
+
+
+	<p>Let&#8217;s hear from Ilya:</p>
+
+
+<blockquote>
+The downside of a true asynchronous library is that it requires callbacks, spaghetti code and a fully asynchronous stack.
+</blockquote>
+<cite>
+  <a href="http://www.igvita.com/2010/04/15/non-blocking-activerecord-rails/">Non-blocking ActiveRecord &#38; Rails</a>
+  </cite>
+
+<blockquote>
+  Event-driven programming requires a mind-shift in how you architect the program
+  </blockquote>
+  <cite>
+    <a href="http://www.igvita.com/2010/03/22/untangling-evented-code-with-ruby-fibers/">Untangling Evented Code with Ruby Fibers</a>
+    </cite>
+
+	<p>Async I/O is very difficult to understand conceptually, and its model of programming isn&#8217;t easy to acquire.  Even if a small number of developers understand this, there will always be developers who don&#8217;t.</p>
+
+
+	<p>So if using EventMachine directly isn&#8217;t viable from a complexity standpoint, is there anything left?</p>
+
+
+	<h2>Blocking <span class="caps">API</span>, Non-blocking performance</h2>
+
+
+	<p>One option that was already introduced is  <a href="http://www.mikeperham.com/2010/04/03/introducing-phat-an-asynchronous-rails-app/">Phat</a>  Phat behind thin is the &#8220;fully asynchronous stack&#8221; that Ilya refers to above, with all drivers of I/O on an EventMachine loop.  The downside is that it requires Ruby 1.9.  That still might be feasible for your application, although it will require some developer adeptness with maintaining multiple versions of Ruby on their development boxes.  <span class="caps">RVM</span> makes this possible, but it is still not trivially easy to use, and you need to understand what you are doing fully to avoid tricky problems.</p>
+
+
+	<p>The option that I suggest has been released as a 1.0, is very well documented, and is in production in many Rails ecosystems around the world: Sinatra.  Sinatra behind thin will happily get to a significantly higher level of concurrent requests served.  Sinatra itself is blocking, but as long as the data retrieval I/O is nonblocking, the overhead is easier to absorb than anywhere else on the stack.  If it&#8217;s desired, there is also a <a href="http://github.com/raggi/async_sinatra">plugin for Sinatra itself</a> to allow async responses.</p>
+
+
+	<h2>Ongoing Reading List</h2>
+
+
+	<ul>
+	<li><a href="http://www.igvita.com/">Ilya Grigorik&#8217;s blog</a></li>
+	</ul>
+
+
+	<p>For my money, Ilya owns the public discussion of scaling Rails.  Tom and Ryan obviously are doing incredible things at GitHub, but their data layer is so different from everyone else&#8217;s that their source material is useful only in pieces.</p>
+
+
+	<p>Bonus:</p>
+
+
+	<p>Follow @tobi, @igrigorik, and @evan on Twitter and you&#8217;ll receive <span class="caps">AT NO CHARGE</span> occasional in-depth and accessible discussion of architecture.</p>
+
+
+	<ul>
+	<li><a href="http://www.mikeperham.com/">Mike Perham&#8217;s blog</a></li>
+	</ul>
+
+
+	<p>Mike wrote the memcached-client gem, and was a part of FiveRuns when they were doing performance consulting and competing with NewRelic.  He&#8217;s since spent a lot of time on EventMachine and getting async I/O brought into Rails, and Phat is the end result.</p>
+
+
+	<ul>
+	<li>Joe Damato and Aman Gupta</li>
+	</ul>
+
+
+	<p>The carlhuda of the Ruby performance world, basically everything Joe writes demands a lot of thinking for me, and Aman wrote EventMachine which underpins everything above.  You may want to start with a reference to their work from Tomayko saying <a href="http://timetobleed.com/ruby-hoedown-slides/">why not threads?</a>  Here&#8217;s more <a href="http://timetobleed.com/6-line-eventmachine-bugfix-2x-faster-gc-1300-requestssec/">ridiculousness</a> from them.</p>
