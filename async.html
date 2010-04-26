@@ -37,10 +37,10 @@ Existing modes of execution suck:
 	<h2>Let&#8217;s Go Shopping</h2>
 
 
-	<p>One of the reasons for Unicorn&#8217;s success is that it eschews Ruby&#8217;s concurrency model and uses Unix&#8217;s.  Ryan Tomayko discusses the particulars in &#8220;his post on Unicorn.&#8221;  One of the downsides (which Ryan acknowledges and dismisses) is portability.  Another is a look at history: &#8220;the apache webserver itself used a prefork model for years&#8221;http://news.ycombinator.com/item?id=865671, before changing its core.</p>
+	<p>One of the reasons for Unicorn&#8217;s success is that it eschews Ruby&#8217;s concurrency model and uses Unix&#8217;s.  Ryan Tomayko discusses the particulars in &#8220;his post on Unicorn.&#8221;  One of the downsides (which Ryan acknowledges and dismisses) is portability.  Another is a look at history: <a href="http://news.ycombinator.com/item?id=865671">the apache webserver itself used a prefork model for years</a>, before changing its core.</p>
 
 
-	<p>In reading around this issue, you find &#8216;async&#8217; popping up all over the place.  Apache has it, nginx uses it, and so on.  For the past year or so in Ruby, the asynchronous I/O story is &#8220;owned by EventMachine&#8221;http://www.slideshare.net/igrigorik/ruby-c10k-high-performance-networking-rubykaigi-09 (start at slide 11).  What&#8217;s the catch?  Take a look at the <a href="http://wiki.github.com/eventmachine/eventmachine/code-snippets">EventMachine examples</a> examples.  Once it gets beyond the simplest possible example, I personally get lost.  Not much of what I love about Ruby is in there.</p>
+	<p>In reading around this issue, you find &#8216;async&#8217; popping up all over the place.  Apache has it, nginx uses it, and so on.  For the past year or so in Ruby, the asynchronous I/O story is <a href=";http://www.slideshare.net/igrigorik/ruby-c10k-high-performance-networking-rubykaigi-09">owned by EventMachine</a> (start at slide 11).  What&#8217;s the catch?  Take a look at the <a href="http://wiki.github.com/eventmachine/eventmachine/code-snippets">EventMachine examples</a> examples.  Once it gets beyond the simplest possible example, I personally get lost.  Not much of what I love about Ruby is in there.</p>
 
 
 	<p>Let&#8217;s hear from Ilya:</p>
@@ -52,6 +52,7 @@ The downside of a true asynchronous library is that it requires callbacks, spagh
 <cite>
   <a href="http://www.igvita.com/2010/04/15/non-blocking-activerecord-rails/">Non-blocking ActiveRecord &#38; Rails</a>
   </cite>
+  <div class="clear" />  
 
 <blockquote>
   Event-driven programming requires a mind-shift in how you architect the program
@@ -59,6 +60,7 @@ The downside of a true asynchronous library is that it requires callbacks, spagh
   <cite>
     <a href="http://www.igvita.com/2010/03/22/untangling-evented-code-with-ruby-fibers/">Untangling Evented Code with Ruby Fibers</a>
     </cite>
+  <div class="clear" />
 
 	<p>Async I/O is very difficult to understand conceptually, and its model of programming isn&#8217;t easy to acquire.  Even if a small number of developers understand this, there will always be developers who don&#8217;t.</p>
 

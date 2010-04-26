@@ -570,3 +570,5 @@ ul.clean, ol.clean {
 }
 
 /* vim: set ft=css ts=4 sw=4 noexpandtab: */
+
+cite { position: relative; left: 300px;}
