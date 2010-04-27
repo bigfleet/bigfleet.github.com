@@ -38,6 +38,8 @@ Existing modes of execution suck:
 
 
 	<p>One of the reasons for Unicorn&#8217;s success is that it eschews Ruby&#8217;s concurrency model and uses Unix&#8217;s.  Ryan Tomayko discusses the particulars in &#8220;his post on Unicorn.&#8221;  One of the downsides (which Ryan acknowledges and dismisses) is portability.  Another is a look at history: <a href="http://news.ycombinator.com/item?id=865671">the apache webserver itself used a prefork model for years</a>, before changing its core.</p>
+	
+	<p>That doesn't mean that Unicorn doesn't have a place in this discussion.  Old solutions often work.  <a href="http://engineering.twitter.com/2010/03/unicorn-power.html">Twitter is having success with unicorn</a>, and there's at least <a href="http://forums.digitalpoint.com/showthread.php?t=216338">one indication those changes weren't a quantum leap forward.</a>  I think it shows there is more to the story.</p>
 
 
 	<p>In reading around this issue, you find &#8216;async&#8217; popping up all over the place.  Apache has it, nginx uses it, and so on.  For the past year or so in Ruby, the asynchronous I/O story is <a href=";http://www.slideshare.net/igrigorik/ruby-c10k-high-performance-networking-rubykaigi-09">owned by EventMachine</a> (start at slide 11).  What&#8217;s the catch?  Take a look at the <a href="http://wiki.github.com/eventmachine/eventmachine/code-snippets">EventMachine examples</a> examples.  Once it gets beyond the simplest possible example, I personally get lost.  Not much of what I love about Ruby is in there.</p>
