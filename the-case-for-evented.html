@@ -1,0 +1,234 @@
+---
+layout: default
+title: "The Case For Non-Blocking"
+---
+
+<p>On Monday, we took a look at <a href="http://jimvanfleet.com/async.html">async I/O and Rails</a> but there&#8217;s room to still be confused.  &#8220;Exactly what is the big deal about eventing?&#8221;, you might be thinking.  &#8220;Non-blocking <strong>sounds</strong> better than blocking, but it sounds very hand-wavey.  How does this really help me plan for high levels of traffic?&#8221;</p>
+<p>Let&#8217;s take a look at <a href="http://www.slideshare.net/simon/evented-io-based-web-servers-explained-using-bunnies">a simple explanation</a> from Simon Willison.  OK, so we&#8217;re thinking about the web-server as a hyperactive squid.  Is that really so much better than six bunnies?  Not necessarily!  But if you, in your role as a developer, partner with the squid, you can eke every last bit of horizontal scale out of each machine that you have access to.  (Remember, eventing and asynchronous communication are about scalability, not performance.)</p>
+<p>Take a look at his last slides:</p>
+<table>
+	<tr>
+		<td><strong>Bad Code</strong></td>
+		<td><strong>Good Code</strong></td>
+	</tr>
+	<tr>
+		<td> rows = database.fetch(category = &#8216;news&#8217;)  </td>
+		<td> database.fetch(category = &#8216;news&#8217;, callback) </td>
+	</tr>
+	<tr>
+		<td> template = read_ﬁle(&#8216;homepage.html&#8217;) </td>
+		<td> read_ﬁle(&#8216;homepage.html&#8217;, callback) </td>
+	</tr>
+	<tr>
+		<td> json = fetch_url(&#8216;http://&#8230;/&#8217;) </td>
+		<td> fetch_url(&#8216;http://&#8230;/&#8217;, callback) </td>
+	</tr>
+</table>
+<p>Why is the bad code &#8220;bad&#8221;?  In his words, &#8220;These functions block and wait for results &#8211; blocking the squid and causing the entire event loop (and hence server) to pause until they complete&#8221;</p>
+<p>Why is the good code good? His words again: &#8220;These functions specify a callback to be executed as soon as the I/O operation completes&#8221;</p>
+<h2>A toy example</h2>
+<p>Network servers spend most of their time waiting for I/O operations to complete.  I can&#8217;t think of a Rails application in particular that wasn&#8217;t database-bound.  I am going to use a port of <a href="http://simonwillison.net/2009/Nov/23/node/">an example of Willison&#8217;s</a> to illustrate the scalability benefits of using evented</p>
+<h3>Rails</h3>
+<p>Imagine a Rails controller comprised of the following:</p>
+<pre><code>
+  class HiController &lt; ApplicationController
+
+    def index
+      sleep 2
+      render :text =&gt; "Hello, world!"
+    end
+
+  end
+</code></pre>
+<p>Let&#8217;s issue these commands.  The first will start the server, the second will issue 100 simultaneous requests 10 times in a row.</p>
+<pre><code>
+  rackup config.ru -p 3000
+  ab -n 1000 -c 100 http://127.0.0.1:3000/hi          
+</pre><p></code></p>
+<p>Here&#8217;s the output of the rackup console.<br />
+<pre><code>  
+  127.0.0.1 - - [28/Apr/2010 14:54:09] "GET /hi HTTP/1.0" 200 - 2.0239
+  127.0.0.1 - - [28/Apr/2010 14:54:11] "GET /hi HTTP/1.0" 200 - 4.0453
+  127.0.0.1 - - [28/Apr/2010 14:54:13] "GET /hi HTTP/1.0" 200 - 6.0660
+  127.0.0.1 - - [28/Apr/2010 14:54:15] "GET /hi HTTP/1.0" 200 - 8.0869
+  127.0.0.1 - - [28/Apr/2010 14:54:17] "GET /hi HTTP/1.0" 200 - 10.1907
+</code></pre></p>
+<p>Here&#8217;s the output of ab.</p>
+<pre><code>
+  This is ApacheBench, Version 2.3 &lt;$Revision: 655654 $&gt;
+  Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+  Licensed to The Apache Software Foundation, http://www.apache.org/
+
+  Benchmarking 127.0.0.1 (be patient)
+  Completed 100 requests
+  ^C
+
+  Server Software:        
+  Server Hostname:        127.0.0.1
+  Server Port:            3000
+
+  Document Path:          /hi
+  Document Length:        13 bytes
+
+  Concurrency Level:      100
+  Time taken for tests:   295.052 seconds
+  Complete requests:      144
+  Failed requests:        0
+  Write errors:           0
+  Total transferred:      58176 bytes
+  HTML transferred:       1872 bytes
+  Requests per second:    0.49 [#/sec] (mean)
+</code></pre>
+<p>Approximate a half request per second.  That&#8217;s consistent with taking two seconds to provide a response.</p>
+<h3>Sinatra</h3>
+<p>Let&#8217;s take a look at Sinatra under the same tooling:</p>
+<p>Here&#8217;s the Sinatra code:</p>
+<pre><code>
+  require 'rubygems'
+  require 'sinatra'
+    get '/hi' do
+      sleep 2
+      "Hello World!"
+    end
+</code></pre>
+<p>Here are the commands that we use to exercise it.<br />
+<pre><code>
+  ruby example.rb
+  ab -n 1000 -c 100 http://127.0.0.1:4567/hi
+</code></pre></p>
+<p>Here&#8217;s the results of the example running on the console<br />
+<pre><code>
+➜  evented-sinatra  ruby example.rb 
+== Sinatra/1.0 has taken the stage on 4567 for development with backup from Mongrel
+127.0.0.1 - - [28/Apr/2010 16:10:32] "GET /hi HTTP/1.1" 200 12 2.0008
+127.0.0.1 - - [28/Apr/2010 16:11:47] "GET /hi HTTP/1.0" 200 12 2.0007
+127.0.0.1 - - [28/Apr/2010 16:11:47] "GET /hi HTTP/1.0" 200 12 2.0006
+127.0.0.1 - - [28/Apr/2010 16:11:47] "GET /hi HTTP/1.0" 200 12 2.0005
+</code></pre></p>
+<p>Here&#8217;s the ab output.</p>
+<pre><code>
+  This is ApacheBench, Version 2.3 &lt;$Revision: 655654 $&gt;
+  Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+  Licensed to The Apache Software Foundation, http://www.apache.org/
+
+  Benchmarking 127.0.0.1 (be patient)
+  Completed 100 requests
+  Completed 200 requests
+  Completed 300 requests
+  Completed 400 requests
+  Completed 500 requests
+  Completed 600 requests
+  Completed 700 requests
+  Completed 800 requests
+  Completed 900 requests
+  Completed 1000 requests
+  Finished 1000 requests
+
+
+  Server Software:        
+  Server Hostname:        127.0.0.1
+  Server Port:            4567
+
+  Document Path:          /hi
+  Document Length:        12 bytes
+
+  Concurrency Level:      100
+  Time taken for tests:   20.535 seconds
+  Complete requests:      1000
+  Failed requests:        0
+  Write errors:           0
+  Total transferred:      132000 bytes
+  HTML transferred:       12000 bytes
+  Requests per second:    48.70 [#/sec] (mean)
+  Time per request:       2053.521 [ms] (mean)
+  Time per request:       20.535 [ms] (mean, across all concurrent requests)
+  Transfer rate:          6.28 [Kbytes/sec] received
+
+  Connection Times (ms)
+                min  mean[+/-sd] median   max
+  Connect:        0    1   1.5      0      13
+  Processing:  2001 2030  34.1   2015    2115
+  Waiting:     2000 2022  26.1   2011    2103
+  Total:       2001 2031  34.7   2015    2118
+
+  Percentage of the requests served within a certain time (ms)
+    50%   2015
+    66%   2034
+    75%   2052
+    80%   2061
+    90%   2089
+    95%   2109
+    98%   2116
+    99%   2117
+   100%   2118 (longest request)
+</code></pre>
+<p>The first example, using Rails and mongrel, delivers 0.5 requests a second, and the Sinatra version is at 48+ requests a second.  The numbers show the difference between blocking and non-blocking.</p>
+<h3>Rails Metal</h3>
+<p>But what about Rails Metal?</p>
+<pre><code>
+  ➜  evented  cat app/metal/ohai.rb 
+  # Allow the metal piece to run in isolation
+  require(File.dirname(__FILE__) + "/../../config/environment") unless defined?(Rails)
+
+  class Ohai
+    def self.call(env)
+      if env["PATH_INFO"] =~ /^\/ohai/
+        sleep 2
+        [200, {"Content-Type" =&gt; "text/html"}, ["Hello, World!"]]
+      else
+        [404, {"Content-Type" =&gt; "text/html"}, ["Not Found"]]
+      end
+    end
+  end
+</code></pre>
+
+<pre><code>
+  ➜  evented  ab -n 1000 -c 100 http://127.0.0.1:3000/ohai                   
+  This is ApacheBench, Version 2.3 &lt;$Revision: 655654 $&gt;
+  Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+  Licensed to The Apache Software Foundation, http://www.apache.org/
+
+  Benchmarking 127.0.0.1 (be patient)
+  ^C
+
+  Server Software:        Mongrel
+  Server Hostname:        127.0.0.1
+  Server Port:            3000
+
+  Document Path:          /ohai
+  Document Length:        13 bytes
+
+  Concurrency Level:      100
+  Time taken for tests:   87.090 seconds
+  Complete requests:      43
+  Failed requests:        0
+  Write errors:           0
+  Total transferred:      7267 bytes
+  HTML transferred:       559 bytes
+  Requests per second:    0.49 [#/sec] (mean)
+  Time per request:       202535.649 [ms] (mean)
+  Time per request:       2025.356 [ms] (mean, across all concurrent requests)
+  Transfer rate:          0.08 [Kbytes/sec] received
+
+  Connection Times (ms)
+                min  mean[+/-sd] median   max
+  Connect:        5    6   0.5      6       7
+  Processing:  2024 44092 25160.5  45085   86220
+  Waiting:     2024 44092 25160.5  45085   86220
+  Total:       2031 44097 25160.9  45091   86227
+
+  Percentage of the requests served within a certain time (ms)
+    50%  44089
+    66%  58111
+    75%  66125
+    80%  70132
+    90%  78145
+    95%  82215
+    98%  86227
+    99%  86227
+   100%  86227 (longest request)
+</code></pre>
+<p>Same sort of results.</p>
+<h2>Conclusion</h2>
+<p>What to make of all of this?  I&#8217;ve got to admit, even I&#8217;m not 100% sure.  You can&#8217;t get more &#8220;block the squid&#8221; than &#8216;sleep 2&#8217;, but still mongrel and sinatra fight past it to nearly a perfect score of 50 r/s.</p>
+<p>There&#8217;s obviously a world of difference between handling 45+ r/s and 0.5 r/s.  My goal is to establish that there can be a big difference in scalability by choosing tools carefully.  Also, I didn&#8217;t think that Sinatra would deliver that large of a figure behind mongrel&#8212; it just goes to show that the only true path forward is evaluating tools in conjunction with real code under test.</p>
